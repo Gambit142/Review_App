@@ -16,7 +16,11 @@ task :restaurants => :environment do
     'Accept' => 'application/json'
   }
   response = HTTParty.get('https://api.test.hotelbeds.com/hotel-content-api/1.0/hotels', headers: headers)
-  puts response.code
   data = JSON.parse response.body
+
+  Dir.mkdir('json') unless File.exists?('json')
+  File.open("json/restaurant.json","w") do |f|
+    f.write(JSON.pretty_generate(data))
+  end
 
 end
