@@ -32,4 +32,14 @@ task :foods => :environment do
   food_data1 = fetch_food_function(first_parameters)['results']
   food_data2 = fetch_food_function(second_parameters)['results']
   food_data3 = fetch_food_function(third_parameters)['results']
+
+  def food_json_file(json_file, food_data)
+    File.open("json/#{json_file}.json","w") do |f|
+      f.write(JSON.pretty_generate(food_data))
+    end
+  end
+
+  food_json_file('food_breakfast', food_data1)
+  food_json_file('food_main_course', food_data2)
+  food_json_file('food_dessert', food_data3)
 end
