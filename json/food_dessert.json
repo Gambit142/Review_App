@@ -1,0 +1,2042 @@
+[
+  {
+    "vegetarian": false,
+    "vegan": false,
+    "glutenFree": true,
+    "dairyFree": true,
+    "veryHealthy": false,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 12,
+    "gaps": "no",
+    "preparationMinutes": -1,
+    "cookingMinutes": -1,
+    "aggregateLikes": 6,
+    "healthScore": 29,
+    "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+    "license": "CC BY 3.0",
+    "sourceName": "Foodista",
+    "pricePerServing": 193.28,
+    "id": 664429,
+    "title": "Vegan Dirty Chai Pudding",
+    "readyInMinutes": 45,
+    "servings": 6,
+    "sourceUrl": "https://www.foodista.com/recipe/LF744JQH/vegan-dirty-chai-espresso-pudding",
+    "image": "https://spoonacular.com/recipeImages/664429-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "Vegan Dirty Chai Pudding is a <b>gluten free and dairy free</b> recipe with 6 servings. One serving contains <b>325 calories</b>, <b>5g of protein</b>, and <b>22g of fat</b>. For <b>$1.93 per serving</b>, this recipe <b>covers 16%</b> of your daily requirements of vitamins and minerals. It works well as a dessert. 6 people have made this recipe and would make it again. This recipe from Foodista requires pudding, cinnamon, vanilla, and cocoa powder. From preparation to the plate, this recipe takes roughly <b>roughly 45 minutes</b>. Overall, this recipe earns a <b>pretty good spoonacular score of 76%</b>. Try <a href=\"https://spoonacular.com/recipes/dirty-chai-tapioca-pudding-with-oatmeal-raisin-cookie-crumble-940972\">Dirty Chai Tapioca Pudding with Oatmeal Raisin Cookie Crumble</a>, <a href=\"https://spoonacular.com/recipes/dirty-dirty-chai-625782\">Dirty Dirty Chai</a>, and <a href=\"https://spoonacular.com/recipes/dirty-chai-541786\">Dirty Chai</a> for similar recipes.",
+    "cuisines": [
+
+    ],
+    "dishTypes": [
+      "dessert"
+    ],
+    "diets": [
+      "gluten free",
+      "dairy free"
+    ],
+    "occasions": [
+
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "Scoop the avocado into a food processor or blender. Measure in the agave nectar, cocoa powder, almond milk, vanilla and sea salt. Pulse and blend until silky smooth, scraping down sides as needed.",
+            "ingredients": [
+              {
+                "id": 19912,
+                "name": "agave",
+                "localizedName": "agave",
+                "image": "agave.png"
+              },
+              {
+                "id": 19165,
+                "name": "cocoa powder",
+                "localizedName": "cocoa powder",
+                "image": "cocoa-powder.png"
+              },
+              {
+                "id": 93607,
+                "name": "almond milk",
+                "localizedName": "almond milk",
+                "image": "almond-milk.png"
+              },
+              {
+                "id": 1012047,
+                "name": "sea salt",
+                "localizedName": "sea salt",
+                "image": "salt.jpg"
+              },
+              {
+                "id": 9037,
+                "name": "avocado",
+                "localizedName": "avocado",
+                "image": "avocado.jpg"
+              },
+              {
+                "id": 1052050,
+                "name": "vanilla",
+                "localizedName": "vanilla",
+                "image": "vanilla.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404771,
+                "name": "food processor",
+                "localizedName": "food processor",
+                "image": "food-processor.png"
+              },
+              {
+                "id": 404726,
+                "name": "blender",
+                "localizedName": "blender",
+                "image": "blender.png"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "step": "Scrape into a large bowl and stir in the espresso grounds and chai spice mix. Taste and adjust espresso and chai flavoring as desired.",
+            "ingredients": [
+              {
+                "id": 1012035,
+                "name": "chai spice",
+                "localizedName": "chai spice",
+                "image": "garam-masala.jpg"
+              },
+              {
+                "id": 14210,
+                "name": "espresso",
+                "localizedName": "espresso",
+                "image": "espresso.jpg"
+              },
+              {
+                "id": 10314355,
+                "name": "chai",
+                "localizedName": "chai",
+                "image": "tea-bags.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404783,
+                "name": "bowl",
+                "localizedName": "bowl",
+                "image": "bowl.jpg"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "step": "Scoop into smaller ramekins, cover with plastic wrap and refrigerate for 30 minutes or overnight to set.",
+            "ingredients": [
+              {
+                "id": 10018364,
+                "name": "wrap",
+                "localizedName": "wrap",
+                "image": "flour-tortilla.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404730,
+                "name": "plastic wrap",
+                "localizedName": "plastic wrap",
+                "image": "plastic-wrap.jpg"
+              },
+              {
+                "id": 404781,
+                "name": "ramekin",
+                "localizedName": "ramekin",
+                "image": "ramekin.jpg"
+              }
+            ],
+            "length": {
+              "number": 30,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 4,
+            "step": "Notes",
+            "ingredients": [
+
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 5,
+            "step": "* Agave Nectar can be substituted with maple syrup. If you do this, you may need to decrease the amount of almond milk you use to keep the pudding thick.",
+            "ingredients": [
+              {
+                "id": 19912,
+                "name": "agave",
+                "localizedName": "agave",
+                "image": "agave.png"
+              },
+              {
+                "id": 93607,
+                "name": "almond milk",
+                "localizedName": "almond milk",
+                "image": "almond-milk.png"
+              },
+              {
+                "id": 19911,
+                "name": "maple syrup",
+                "localizedName": "maple syrup",
+                "image": "maple-syrup.png"
+              }
+            ],
+            "equipment": [
+
+            ]
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/vegan-dirty-chai-pudding-664429"
+  },
+  {
+    "vegetarian": false,
+    "vegan": false,
+    "glutenFree": false,
+    "dairyFree": true,
+    "veryHealthy": false,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 10,
+    "gaps": "no",
+    "preparationMinutes": -1,
+    "cookingMinutes": -1,
+    "aggregateLikes": 76,
+    "healthScore": 16,
+    "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+    "license": "CC BY 3.0",
+    "sourceName": "Foodista",
+    "pricePerServing": 141.76,
+    "id": 658007,
+    "title": "Raw Vegan Chocolate and Raspberry Cake",
+    "readyInMinutes": 45,
+    "servings": 12,
+    "sourceUrl": "https://www.foodista.com/recipe/CDSD8KXF/raw-vegan-chocolate-and-raspberry-cake",
+    "image": "https://spoonacular.com/recipeImages/658007-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "If you have around <b>about 45 minutes</b> to spend in the kitchen, Raw Vegan Chocolate and Raspberry Cake might be an outstanding <b>dairy free</b> recipe to try. This dessert has <b>351 calories</b>, <b>7g of protein</b>, and <b>23g of fat</b> per serving. For <b>$1.42 per serving</b>, this recipe <b>covers 12%</b> of your daily requirements of vitamins and minerals. This recipe serves 12. It is brought to you by Foodista. A mixture of honey, walnuts, raspberries, and a handful of other ingredients are all it takes to make this recipe so yummy. 76 people found this recipe to be yummy and satisfying. Overall, this recipe earns a <b>solid spoonacular score of 72%</b>. Similar recipes are <a href=\"https://spoonacular.com/recipes/no-bake-chocolate-fudge-fridge-cake-raw-vegan-paleo-512260\">No-Bake Chocolate Fudge Fridge Cake (Raw, Vegan, Paleo)</a>, <a href=\"https://spoonacular.com/recipes/raw-vegan-raspberry-cheesecake-581604\">Raw Vegan Raspberry Cheesecake</a>, and <a href=\"https://spoonacular.com/recipes/raw-vegan-vanilla-raspberry-cheesecake-618307\">Raw vegan Vanilla raspberry cheesecake</a>.",
+    "cuisines": [
+
+    ],
+    "dishTypes": [
+      "dessert"
+    ],
+    "diets": [
+      "dairy free"
+    ],
+    "occasions": [
+
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "Go to my blog for the full instructions: http://gourmandelle.com/raw-vegan-chocolate-and-raspberry-birthday-cake/",
+            "ingredients": [
+              {
+                "id": 19081,
+                "name": "chocolate",
+                "localizedName": "chocolate",
+                "image": "milk-chocolate.jpg"
+              },
+              {
+                "id": 9302,
+                "name": "raspberries",
+                "localizedName": "raspberries",
+                "image": "raspberries.jpg"
+              }
+            ],
+            "equipment": [
+
+            ]
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/raw-vegan-chocolate-and-raspberry-cake-658007"
+  },
+  {
+    "vegetarian": true,
+    "vegan": false,
+    "glutenFree": false,
+    "dairyFree": false,
+    "veryHealthy": false,
+    "cheap": false,
+    "veryPopular": true,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 25,
+    "gaps": "no",
+    "preparationMinutes": 20,
+    "cookingMinutes": 20,
+    "aggregateLikes": 1928,
+    "healthScore": 9,
+    "creditsText": "Jen West",
+    "sourceName": "Pink When",
+    "pricePerServing": 168.57,
+    "id": 715569,
+    "title": "Strawberry Cheesecake Chocolate Crepes",
+    "readyInMinutes": 40,
+    "servings": 4,
+    "sourceUrl": "https://www.pinkwhen.com/strawberry-cheesecake-chocolate-crepes/",
+    "image": "https://spoonacular.com/recipeImages/715569-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "Forget going out to eat or ordering takeout every time you crave Mediterranean food. Try making Strawberry Cheesecake Chocolate Crepes at home. This recipe serves 4. One serving contains <b>638 calories</b>, <b>16g of protein</b>, and <b>38g of fat</b>. For <b>$1.69 per serving</b>, this recipe <b>covers 20%</b> of your daily requirements of vitamins and minerals. This recipe from Pink When has 1928 fans. Several people really liked this breakfast. <b>Mother's Day</b> will be even more special with this recipe. From preparation to the plate, this recipe takes around <b>40 minutes</b>. If you have cream cheese, cocoa powder, granulated sugar, and a few other ingredients on hand, you can make it. It is a good option if you're following a <b>lacto ovo vegetarian</b> diet. With a spoonacular <b>score of 0%</b>, this dish is very bad (but still fixable). Users who liked this recipe also liked <a href=\"https://spoonacular.com/recipes/strawberry-cheesecake-crepes-1104545\">Strawberry Cheesecake Crepes</a>, <a href=\"https://spoonacular.com/recipes/chocolate-strawberry-crepes-306701\">Chocolate-Strawberry Crepes</a>, and <a href=\"https://spoonacular.com/recipes/chocolate-strawberry-crepes-with-caramel-sauce-294513\">Chocolate Strawberry Crepes with Caramel Sauce</a>.",
+    "cuisines": [
+      "Mediterranean",
+      "French",
+      "European"
+    ],
+    "dishTypes": [
+      "morning meal",
+      "dessert",
+      "brunch",
+      "breakfast"
+    ],
+    "diets": [
+      "lacto ovo vegetarian"
+    ],
+    "occasions": [
+      "mother's day"
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "How to Make Strawberry Creme Cheese Filling",
+            "ingredients": [
+              {
+                "id": 9316,
+                "name": "strawberries",
+                "localizedName": "strawberries",
+                "image": "strawberries.png"
+              },
+              {
+                "id": 1041009,
+                "name": "cheese",
+                "localizedName": "cheese",
+                "image": "cheddar-cheese.png"
+              }
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 2,
+            "step": "Add cream cheese, strawberries, vanilla extract, lemon juice, and granulated sugar into a medium-sized mixing bowl.",
+            "ingredients": [
+              {
+                "id": 10719335,
+                "name": "granulated sugar",
+                "localizedName": "granulated sugar",
+                "image": "sugar-in-bowl.png"
+              },
+              {
+                "id": 2050,
+                "name": "vanilla extract",
+                "localizedName": "vanilla extract",
+                "image": "vanilla-extract.jpg"
+              },
+              {
+                "id": 1017,
+                "name": "cream cheese",
+                "localizedName": "cream cheese",
+                "image": "cream-cheese.jpg"
+              },
+              {
+                "id": 9316,
+                "name": "strawberries",
+                "localizedName": "strawberries",
+                "image": "strawberries.png"
+              },
+              {
+                "id": 9152,
+                "name": "lemon juice",
+                "localizedName": "lemon juice",
+                "image": "lemon-juice.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 405907,
+                "name": "mixing bowl",
+                "localizedName": "mixing bowl",
+                "image": "mixing-bowl.jpg"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "step": "Use a hand mixer, wooden spoon, or spatula to mix ingredients.",
+            "ingredients": [
+
+            ],
+            "equipment": [
+              {
+                "id": 404732,
+                "name": "wooden spoon",
+                "localizedName": "wooden spoon",
+                "image": "wooden-spoon.jpg"
+              },
+              {
+                "id": 404628,
+                "name": "hand mixer",
+                "localizedName": "hand mixer",
+                "image": "hand-mixer.png"
+              },
+              {
+                "id": 404642,
+                "name": "spatula",
+                "localizedName": "spatula",
+                "image": "spatula-or-turner.jpg"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "step": "Mix until smooth.",
+            "ingredients": [
+
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 5,
+            "step": "Set aside.",
+            "ingredients": [
+
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 6,
+            "step": "How to Blend Chocolate Crepes Ingredients",
+            "ingredients": [
+              {
+                "id": 19081,
+                "name": "chocolate",
+                "localizedName": "chocolate",
+                "image": "milk-chocolate.jpg"
+              },
+              {
+                "id": 93732,
+                "name": "crepes",
+                "localizedName": "crepes",
+                "image": "crepes-isolated.jpg"
+              }
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 7,
+            "step": "Combine flour, sugar, cocoa powder, salt, and eggs to a food processor or blender.",
+            "ingredients": [
+              {
+                "id": 19165,
+                "name": "cocoa powder",
+                "localizedName": "cocoa powder",
+                "image": "cocoa-powder.png"
+              },
+              {
+                "id": 20081,
+                "name": "all purpose flour",
+                "localizedName": "all purpose flour",
+                "image": "flour.png"
+              },
+              {
+                "id": 19335,
+                "name": "sugar",
+                "localizedName": "sugar",
+                "image": "sugar-in-bowl.png"
+              },
+              {
+                "id": 1123,
+                "name": "egg",
+                "localizedName": "egg",
+                "image": "egg.png"
+              },
+              {
+                "id": 2047,
+                "name": "salt",
+                "localizedName": "salt",
+                "image": "salt.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404771,
+                "name": "food processor",
+                "localizedName": "food processor",
+                "image": "food-processor.png"
+              },
+              {
+                "id": 404726,
+                "name": "blender",
+                "localizedName": "blender",
+                "image": "blender.png"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "step": "If using a food processor, keep it running as you add milk and water. Continue to pulse intil blended well.",
+            "ingredients": [
+              {
+                "id": 14412,
+                "name": "water",
+                "localizedName": "water",
+                "image": "water.png"
+              },
+              {
+                "id": 1077,
+                "name": "milk",
+                "localizedName": "milk",
+                "image": "milk.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404771,
+                "name": "food processor",
+                "localizedName": "food processor",
+                "image": "food-processor.png"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "step": "Pour in melted butter and vanilla extract.",
+            "ingredients": [
+              {
+                "id": 2050,
+                "name": "vanilla extract",
+                "localizedName": "vanilla extract",
+                "image": "vanilla-extract.jpg"
+              },
+              {
+                "id": 1001,
+                "name": "butter",
+                "localizedName": "butter",
+                "image": "butter-sliced.jpg"
+              }
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 10,
+            "step": "Set bowl aside.",
+            "ingredients": [
+
+            ],
+            "equipment": [
+              {
+                "id": 404783,
+                "name": "bowl",
+                "localizedName": "bowl",
+                "image": "bowl.jpg"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "step": "How to Make Chocolate Crepes",
+            "ingredients": [
+              {
+                "id": 19081,
+                "name": "chocolate",
+                "localizedName": "chocolate",
+                "image": "milk-chocolate.jpg"
+              },
+              {
+                "id": 93732,
+                "name": "crepes",
+                "localizedName": "crepes",
+                "image": "crepes-isolated.jpg"
+              }
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 12,
+            "step": "Heat crepe pan or 8\"-10\" omelet pan over medium heat.",
+            "ingredients": [
+
+            ],
+            "equipment": [
+              {
+                "id": 404645,
+                "name": "frying pan",
+                "localizedName": "frying pan",
+                "image": "pan.png"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "step": "Pour 1/4 cup of batter directly into the middle of the pan and swirl to cover the bottom.",
+            "ingredients": [
+
+            ],
+            "equipment": [
+              {
+                "id": 404645,
+                "name": "frying pan",
+                "localizedName": "frying pan",
+                "image": "pan.png"
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "step": "Cook the crepe for 2-3 minutes or until the bottom is light brown and the edges are completely set.",
+            "ingredients": [
+
+            ],
+            "equipment": [
+
+            ],
+            "length": {
+              "number": 3,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 15,
+            "step": "Flip the crepe over and cook for an additional minute.",
+            "ingredients": [
+
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 16,
+            "step": "Transfer to a serving platter and repeat for the rest of the batter.",
+            "ingredients": [
+
+            ],
+            "equipment": [
+
+            ]
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/strawberry-cheesecake-chocolate-crepes-715569"
+  },
+  {
+    "vegetarian": true,
+    "vegan": false,
+    "glutenFree": true,
+    "dairyFree": false,
+    "veryHealthy": false,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 9,
+    "gaps": "no",
+    "preparationMinutes": -1,
+    "cookingMinutes": -1,
+    "aggregateLikes": 1,
+    "healthScore": 24,
+    "creditsText": "foodista.com",
+    "sourceName": "foodista.com",
+    "pricePerServing": 86.87,
+    "id": 643450,
+    "title": "Fresh Cherry Scones",
+    "readyInMinutes": 45,
+    "servings": 8,
+    "sourceUrl": "https://www.foodista.com/recipe/6LXB248N/fresh-cherry-scones",
+    "image": "https://spoonacular.com/recipeImages/643450-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "You can never have too many breakfast recipes, so give Fresh Cherry Scones a try. This gluten free and lacto ovo vegetarian recipe serves 8 and costs <b>87 cents per serving</b>. One portion of this dish contains around <b>8g of protein</b>, <b>9g of fat</b>, and a total of <b>306 calories</b>. Only a few people made this recipe, and 1 would say it hit the spot. Head to the store and pick up cherries, yogurt, baking soda, and a few other things to make it today. This recipe is typical of European cuisine. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>approximately 45 minutes</b>. With a spoonacular <b>score of 65%</b>, this dish is good. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/fresh-cherry-scones-482288\">Fresh Cherry Scones</a>, <a href=\"https://spoonacular.com/recipes/10-pound-cherry-challenge-white-chocolate-cherry-scones-542507\">10 Pound Cherry Challenge: White Chocolate Cherry Scones</a>, and <a href=\"https://spoonacular.com/recipes/bittersweet-chocolate-cherry-sorbet-with-fresh-cherry-compote-53232\">Bittersweet Chocolate-Cherry Sorbet with Fresh Cherry Compote</a>.",
+    "cuisines": [
+      "English",
+      "British",
+      "Scottish",
+      "European"
+    ],
+    "dishTypes": [
+      "morning meal",
+      "dessert",
+      "brunch",
+      "breakfast"
+    ],
+    "diets": [
+      "gluten free",
+      "lacto ovo vegetarian"
+    ],
+    "occasions": [
+
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "Cut cherries in half and pit them (or use a cherry pitter).",
+            "ingredients": [
+              {
+                "id": 9070,
+                "name": "cherries",
+                "localizedName": "cherries",
+                "image": "cherries.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404754,
+                "name": "cherry pitter",
+                "localizedName": "cherry pitter",
+                "image": "cherry-pitter.jpg"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "step": "Place the cherries in a freezer-safe container and freeze for at least 3 hours prior to baking the scones. This ensures the cherries dont pop in the dough while theyre baking.",
+            "ingredients": [
+              {
+                "id": 9070,
+                "name": "cherries",
+                "localizedName": "cherries",
+                "image": "cherries.jpg"
+              },
+              {
+                "id": 0,
+                "name": "dough",
+                "localizedName": "dough",
+                "image": "pizza-dough"
+              },
+              {
+                "id": 0,
+                "name": "pop",
+                "localizedName": "soft drink",
+                "image": ""
+              }
+            ],
+            "equipment": [
+
+            ],
+            "length": {
+              "number": 180,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 3,
+            "step": "In a Kitchen",
+            "ingredients": [
+
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 4,
+            "step": "Aid (with the wire whisk attachment) or food processor, add the oat flour, cornmeal, baking powder, baking soda, nutmeg, ginger and salt.",
+            "ingredients": [
+              {
+                "id": 18369,
+                "name": "baking powder",
+                "localizedName": "baking powder",
+                "image": "white-powder.jpg"
+              },
+              {
+                "id": 18372,
+                "name": "baking soda",
+                "localizedName": "baking soda",
+                "image": "white-powder.jpg"
+              },
+              {
+                "id": 20132,
+                "name": "oat flour",
+                "localizedName": "oat flour",
+                "image": "brown-flour.jpg"
+              },
+              {
+                "id": 35137,
+                "name": "cornmeal",
+                "localizedName": "cornmeal",
+                "image": "cornmeal.png"
+              },
+              {
+                "id": 11216,
+                "name": "ginger",
+                "localizedName": "ginger",
+                "image": "ginger.png"
+              },
+              {
+                "id": 2025,
+                "name": "nutmeg",
+                "localizedName": "nutmeg",
+                "image": "ground-nutmeg.jpg"
+              },
+              {
+                "id": 2047,
+                "name": "salt",
+                "localizedName": "salt",
+                "image": "salt.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404771,
+                "name": "food processor",
+                "localizedName": "food processor",
+                "image": "food-processor.png"
+              },
+              {
+                "id": 404661,
+                "name": "whisk",
+                "localizedName": "whisk",
+                "image": "whisk.png"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "step": "Mix or pulse to combine dry ingredients. In a bowl, combine the applesauce, yogurt, vanilla extract and agave nectar.  Stir to combine Very slowly pour the wet ingredients into the mixer with the dry ingredients about a quarter of a cup at a time (similar idea to making pie crust), mixing on medium speed. Once all the wet ingredients are combined with the dry, add chopped walnuts and mix until integrated into the dough. Taking the dough in your hands, form it into a disc shape. Refrigerate in a sealable container or plastic wrap for 1 hour.",
+            "ingredients": [
+              {
+                "id": 10112155,
+                "name": "walnut pieces",
+                "localizedName": "walnut pieces",
+                "image": "walnuts.jpg"
+              },
+              {
+                "id": 2050,
+                "name": "vanilla extract",
+                "localizedName": "vanilla extract",
+                "image": "vanilla-extract.jpg"
+              },
+              {
+                "id": 19912,
+                "name": "agave",
+                "localizedName": "agave",
+                "image": "agave.png"
+              },
+              {
+                "id": 9019,
+                "name": "applesauce",
+                "localizedName": "applesauce",
+                "image": "applesauce.png"
+              },
+              {
+                "id": 18334,
+                "name": "pie crust",
+                "localizedName": "pie crust",
+                "image": "pie-crust.jpg"
+              },
+              {
+                "id": 1116,
+                "name": "yogurt",
+                "localizedName": "yogurt",
+                "image": "plain-yogurt.jpg"
+              },
+              {
+                "id": 0,
+                "name": "dough",
+                "localizedName": "dough",
+                "image": "pizza-dough"
+              },
+              {
+                "id": 10018364,
+                "name": "wrap",
+                "localizedName": "wrap",
+                "image": "flour-tortilla.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404730,
+                "name": "plastic wrap",
+                "localizedName": "plastic wrap",
+                "image": "plastic-wrap.jpg"
+              },
+              {
+                "id": 404726,
+                "name": "blender",
+                "localizedName": "blender",
+                "image": "blender.png"
+              },
+              {
+                "id": 404783,
+                "name": "bowl",
+                "localizedName": "bowl",
+                "image": "bowl.jpg"
+              }
+            ],
+            "length": {
+              "number": 60,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 6,
+            "step": "Preheat the oven to 375 degrees. Using a bread knife, cut the dough in half horizontally like you would a bun.",
+            "ingredients": [
+              {
+                "id": 18064,
+                "name": "bread",
+                "localizedName": "bread",
+                "image": "white-bread.jpg"
+              },
+              {
+                "id": 0,
+                "name": "dough",
+                "localizedName": "dough",
+                "image": "pizza-dough"
+              },
+              {
+                "id": 0,
+                "name": "roll",
+                "localizedName": "roll",
+                "image": "dinner-yeast-rolls.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404773,
+                "name": "bread knife",
+                "localizedName": "bread knife",
+                "image": "bread-knife.jpg"
+              },
+              {
+                "id": 404784,
+                "name": "oven",
+                "localizedName": "oven",
+                "image": "oven.jpg"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "step": "Place half of the frozen cherries on one of the dough halves then place the other half of the dough on top. Press the dough halves together to seal the cherries in.  Press the remaining frozen cherries into the top of the dough. Using a serrated knife, cut diagonals into the dough in order to create eight triangles. Arrange on a parchment paper-lined baking sheet (be sure to give the triangles enough space to bake evenly).",
+            "ingredients": [
+              {
+                "id": 9070,
+                "name": "cherries",
+                "localizedName": "cherries",
+                "image": "cherries.jpg"
+              },
+              {
+                "id": 0,
+                "name": "dough",
+                "localizedName": "dough",
+                "image": "pizza-dough"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404770,
+                "name": "baking paper",
+                "localizedName": "baking paper",
+                "image": "baking-paper.jpg"
+              },
+              {
+                "id": 404740,
+                "name": "serrated knife",
+                "localizedName": "serrated knife",
+                "image": "serrated-knife.jpg"
+              },
+              {
+                "id": 404727,
+                "name": "baking sheet",
+                "localizedName": "baking sheet",
+                "image": "baking-sheet.jpg"
+              },
+              {
+                "id": 404784,
+                "name": "oven",
+                "localizedName": "oven",
+                "image": "oven.jpg"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "step": "Bake for 23 minutes or until the tops of the scones are golden brown.",
+            "ingredients": [
+
+            ],
+            "equipment": [
+              {
+                "id": 404784,
+                "name": "oven",
+                "localizedName": "oven",
+                "image": "oven.jpg"
+              }
+            ],
+            "length": {
+              "number": 23,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 9,
+            "step": "Serve with butter, jam, honey, or nutella.",
+            "ingredients": [
+              {
+                "id": 19125,
+                "name": "chocolate hazelnut spread",
+                "localizedName": "chocolate hazelnut spread",
+                "image": "hazelnut-chocolate-spread.jpg"
+              },
+              {
+                "id": 1001,
+                "name": "butter",
+                "localizedName": "butter",
+                "image": "butter-sliced.jpg"
+              },
+              {
+                "id": 19296,
+                "name": "honey",
+                "localizedName": "honey",
+                "image": "honey.png"
+              },
+              {
+                "id": 19297,
+                "name": "jam",
+                "localizedName": "jam",
+                "image": "strawberry-jam.png"
+              }
+            ],
+            "equipment": [
+
+            ]
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/fresh-cherry-scones-643450"
+  },
+  {
+    "vegetarian": true,
+    "vegan": false,
+    "glutenFree": true,
+    "dairyFree": true,
+    "veryHealthy": false,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 17,
+    "gaps": "no",
+    "preparationMinutes": -1,
+    "cookingMinutes": -1,
+    "aggregateLikes": 1,
+    "healthScore": 21,
+    "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+    "license": "CC BY 3.0",
+    "sourceName": "Foodista",
+    "pricePerServing": 349.95,
+    "id": 642780,
+    "title": "Fig and Walnut Pudding",
+    "readyInMinutes": 45,
+    "servings": 2,
+    "sourceUrl": "https://www.foodista.com/recipe/HQYSXMGL/fig-and-walnut-pudding",
+    "image": "https://spoonacular.com/recipeImages/642780-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "Fig and Walnut Pudding might be a good recipe to expand your dessert recipe box. This recipe serves 2 and costs $3.5 per serving. One serving contains <b>472 calories</b>, <b>7g of protein</b>, and <b>34g of fat</b>. From preparation to the plate, this recipe takes around <b>around 45 minutes</b>. 1 person were glad they tried this recipe. A mixture of mission figs, unfiltered honey, nutmeg, and a handful of other ingredients are all it takes to make this recipe so yummy. It is brought to you by Foodista. It is a good option if you're following a <b>gluten free, dairy free, paleolithic, and lacto ovo vegetarian</b> diet. Overall, this recipe earns a <b>solid spoonacular score of 63%</b>. <a href=\"https://spoonacular.com/recipes/fig-and-walnut-cookies-342833\">Fig and Walnut Cookies</a>, <a href=\"https://spoonacular.com/recipes/fig-walnut-biscotti-57256\">Fig & Walnut Biscotti</a>, and <a href=\"https://spoonacular.com/recipes/fig-walnut-spaghetti-57252\">Fig & Walnut Spaghetti</a> are very similar to this recipe.",
+    "cuisines": [
+
+    ],
+    "dishTypes": [
+      "dessert"
+    ],
+    "diets": [
+      "gluten free",
+      "dairy free",
+      "paleolithic",
+      "lacto ovo vegetarian",
+      "primal"
+    ],
+    "occasions": [
+
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "Slice figs into quarters.",
+            "ingredients": [
+              {
+                "id": 9089,
+                "name": "figs",
+                "localizedName": "figs",
+                "image": "figs-fresh.jpg"
+              }
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 2,
+            "step": "Spoon out avocado into a blender along with all remaining ingredients.",
+            "ingredients": [
+              {
+                "id": 9037,
+                "name": "avocado",
+                "localizedName": "avocado",
+                "image": "avocado.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404726,
+                "name": "blender",
+                "localizedName": "blender",
+                "image": "blender.png"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "step": "Blend on medium speed until creamy, using a tamper or spatula if necessary.",
+            "ingredients": [
+
+            ],
+            "equipment": [
+              {
+                "id": 404642,
+                "name": "spatula",
+                "localizedName": "spatula",
+                "image": "spatula-or-turner.jpg"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "step": "Serve with fresh slices of figs and crushed walnut pieces.",
+            "ingredients": [
+              {
+                "id": 10112155,
+                "name": "walnut pieces",
+                "localizedName": "walnut pieces",
+                "image": "walnuts.jpg"
+              },
+              {
+                "id": 9089,
+                "name": "figs",
+                "localizedName": "figs",
+                "image": "figs-fresh.jpg"
+              }
+            ],
+            "equipment": [
+
+            ]
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/fig-and-walnut-pudding-642780"
+  },
+  {
+    "vegetarian": true,
+    "vegan": false,
+    "glutenFree": true,
+    "dairyFree": false,
+    "veryHealthy": false,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 30,
+    "gaps": "no",
+    "preparationMinutes": -1,
+    "cookingMinutes": -1,
+    "aggregateLikes": 1,
+    "healthScore": 21,
+    "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+    "license": "CC BY 3.0",
+    "sourceName": "Foodista",
+    "pricePerServing": 387.46,
+    "id": 636289,
+    "title": "Brown Rice For Dessert",
+    "readyInMinutes": 45,
+    "servings": 2,
+    "sourceUrl": "https://www.foodista.com/recipe/2D6KMTR2/brown-rice-for-dessert",
+    "image": "https://spoonacular.com/recipeImages/636289-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "Brown Rice For Dessert is a dessert that serves 2. One serving contains <b>685 calories</b>, <b>20g of protein</b>, and <b>24g of fat</b>. For <b>$3.87 per serving</b>, this recipe <b>covers 24%</b> of your daily requirements of vitamins and minerals. 1 person found this recipe to be scrumptious and satisfying. If you have brown rice, cinnamon powder, water, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>approximately 45 minutes</b>. It is a good option if you're following a <b>gluten free and lacto ovo vegetarian</b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 62%</b>. This score is good. Similar recipes include <a href=\"https://spoonacular.com/recipes/brown-rice-saffron-risotto-and-why-brown-rice-is-better-than-white-rice-486540\">Brown Rice Saffron Risotto (and why Brown Rice is better than White Rice)</a>, <a href=\"https://spoonacular.com/recipes/how-to-cook-brown-rice-perfectly-and-zucchini-and-garlic-brown-rice-628225\">How To Cook Brown Rice Perfectly and Zucchini and Garlic Brown Rice</a>, and <a href=\"https://spoonacular.com/recipes/brown-arroz-con-pollo-brown-rice-and-chicken-100265\">Brown Arroz Con Pollo (Brown Rice and Chicken)</a>.",
+    "cuisines": [
+
+    ],
+    "dishTypes": [
+      "dessert"
+    ],
+    "diets": [
+      "gluten free",
+      "lacto ovo vegetarian"
+    ],
+    "occasions": [
+
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "Wash the brown rice in running water and soak it for 15-20 hours. Grate the jaggery and keep it aside. Take a heavy bottom vessel and boil 2 cups of water in it.",
+            "ingredients": [
+              {
+                "id": 20040,
+                "name": "brown rice",
+                "localizedName": "brown rice",
+                "image": "uncooked-brown-rice.png"
+              },
+              {
+                "id": 99002,
+                "name": "jaggery",
+                "localizedName": "jaggery",
+                "image": "jaggery.jpg"
+              },
+              {
+                "id": 14412,
+                "name": "water",
+                "localizedName": "water",
+                "image": "water.png"
+              }
+            ],
+            "equipment": [
+
+            ],
+            "length": {
+              "number": 1200,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 2,
+            "step": "Drain the rice and add it in the boiled water.",
+            "ingredients": [
+              {
+                "id": 14412,
+                "name": "water",
+                "localizedName": "water",
+                "image": "water.png"
+              },
+              {
+                "id": 20444,
+                "name": "rice",
+                "localizedName": "rice",
+                "image": "uncooked-white-rice.png"
+              }
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 3,
+            "step": "Let it simmer for 15 minutes.",
+            "ingredients": [
+
+            ],
+            "equipment": [
+
+            ],
+            "length": {
+              "number": 15,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 4,
+            "step": "Add 4 cups of milk and let the mixture boil for another 30 minutes. Check for the consistency of rice, it should be soft and mushy.",
+            "ingredients": [
+              {
+                "id": 1077,
+                "name": "milk",
+                "localizedName": "milk",
+                "image": "milk.png"
+              },
+              {
+                "id": 20444,
+                "name": "rice",
+                "localizedName": "rice",
+                "image": "uncooked-white-rice.png"
+              }
+            ],
+            "equipment": [
+
+            ],
+            "length": {
+              "number": 30,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 5,
+            "step": "Take off flame and add the nuts, cinnamon powder, cardamom powder and the grated jaggery in the dessert.",
+            "ingredients": [
+              {
+                "id": 1032006,
+                "name": "cardamom powder",
+                "localizedName": "cardamom powder",
+                "image": "cardamom-ground.jpg"
+              },
+              {
+                "id": 1012010,
+                "name": "ground cinnamon",
+                "localizedName": "ground cinnamon",
+                "image": "cinnamon.jpg"
+              },
+              {
+                "id": 99002,
+                "name": "jaggery",
+                "localizedName": "jaggery",
+                "image": "jaggery.jpg"
+              },
+              {
+                "id": 12135,
+                "name": "nuts",
+                "localizedName": "nuts",
+                "image": "nuts-mixed.jpg"
+              }
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 6,
+            "step": "Mix it thoroughly.",
+            "ingredients": [
+
+            ],
+            "equipment": [
+
+            ]
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/brown-rice-for-dessert-636289"
+  },
+  {
+    "vegetarian": false,
+    "vegan": false,
+    "glutenFree": true,
+    "dairyFree": true,
+    "veryHealthy": false,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "lowFodmap": true,
+    "weightWatcherSmartPoints": 8,
+    "gaps": "no",
+    "preparationMinutes": -1,
+    "cookingMinutes": -1,
+    "aggregateLikes": 1,
+    "healthScore": 19,
+    "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+    "license": "CC BY 3.0",
+    "sourceName": "Foodista",
+    "pricePerServing": 126.38,
+    "id": 1096302,
+    "title": "Coffee Chia Pudding",
+    "readyInMinutes": 250,
+    "servings": 2,
+    "sourceUrl": "https://www.foodista.com/recipe/JRRN2VFD/coffee-chia-pudding",
+    "image": "https://spoonacular.com/recipeImages/1096302-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "You can never have too many dessert recipes, so give Coffee Chia Pudding a try. This recipe serves 2. For <b>$1.26 per serving</b>, this recipe <b>covers 18%</b> of your daily requirements of vitamins and minerals. One portion of this dish contains about <b>8g of protein</b>, <b>15g of fat</b>, and a total of <b>269 calories</b>. Head to the store and pick up vanillan extract, almond milk, maple syrup, and a few other things to make it today. It is a good option if you're following a <b>gluten free, dairy free, and fodmap friendly</b> diet. 1 person has made this recipe and would make it again. From preparation to the plate, this recipe takes about <b>4 hours and 10 minutes</b>. It is brought to you by Foodista. With a spoonacular <b>score of 81%</b>, this dish is excellent. Similar recipes are <a href=\"https://spoonacular.com/recipes/coffee-and-chocolate-chia-seed-pudding-553412\">Coffee and chocolate chia seed pudding</a>, <a href=\"https://spoonacular.com/recipes/overnight-chocolate-coffee-chia-breakfast-pudding-1240595\">Overnight Chocolate Coffee Chia Breakfast Pudding</a>, and <a href=\"https://spoonacular.com/recipes/overnight-chocolate-coffee-chia-breakfast-pudding-1309615\">Overnight Chocolate Coffee Chia Breakfast Pudding</a>.",
+    "cuisines": [
+
+    ],
+    "dishTypes": [
+      "dessert"
+    ],
+    "diets": [
+      "gluten free",
+      "dairy free",
+      "fodmap friendly"
+    ],
+    "occasions": [
+
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "In a mixing bowl, add all of the ingredients and stir until fully combined.Fill your glasses or bowls with the chia pudding mixture and pop them into the fridge to chill for at least 4 hours or, better, overnight.If desired, you can add dairy free whipped cream on top (totally optional!)",
+            "ingredients": [
+              {
+                "id": 1054,
+                "name": "whipped cream",
+                "localizedName": "whipped cream",
+                "image": "whipped-cream.jpg"
+              },
+              {
+                "id": 0,
+                "name": "pop",
+                "localizedName": "soft drink",
+                "image": ""
+              }
+            ],
+            "equipment": [
+              {
+                "id": 405907,
+                "name": "mixing bowl",
+                "localizedName": "mixing bowl",
+                "image": "mixing-bowl.jpg"
+              }
+            ],
+            "length": {
+              "number": 240,
+              "unit": "minutes"
+            }
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/coffee-chia-pudding-1096302"
+  },
+  {
+    "vegetarian": true,
+    "vegan": false,
+    "glutenFree": true,
+    "dairyFree": false,
+    "veryHealthy": false,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 7,
+    "gaps": "no",
+    "preparationMinutes": -1,
+    "cookingMinutes": -1,
+    "aggregateLikes": 1,
+    "healthScore": 19,
+    "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+    "license": "CC BY 3.0",
+    "sourceName": "Foodista",
+    "pricePerServing": 178.04,
+    "id": 1096280,
+    "title": "Strawberry Lime Basil Sherbet",
+    "readyInMinutes": 45,
+    "servings": 6,
+    "sourceUrl": "https://www.foodista.com/recipe/6RLPS4JJ/strawberry-lime-basil-sherbet",
+    "image": "https://spoonacular.com/recipeImages/1096280-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "You can never have too many dessert recipes, so give Strawberry Lime Basil Sherbet a try. This gluten free and lacto ovo vegetarian recipe serves 6 and costs <b>$1.78 per serving</b>. One serving contains <b>192 calories</b>, <b>5g of protein</b>, and <b>4g of fat</b>. 1 person were glad they tried this recipe. This recipe from Foodista requires lime juice, water, lime zest, and strawberries. <b>Mother's Day</b> will be even more special with this recipe. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 87%</b>, which is awesome. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/strawberry-lemon-and-basil-sherbet-673905\">Strawberry, Lemon and Basil Sherbet</a>, <a href=\"https://spoonacular.com/recipes/roasted-strawberry-basil-sherbet-1019874\">Roasted Strawberry Basil Sherbet</a>, and <a href=\"https://spoonacular.com/recipes/lime-sherbet-417360\">Lime Sherbet</a>.",
+    "cuisines": [
+
+    ],
+    "dishTypes": [
+      "dessert"
+    ],
+    "diets": [
+      "gluten free",
+      "lacto ovo vegetarian"
+    ],
+    "occasions": [
+      "mother's day"
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "To make the basil syrup",
+        "steps": [
+          {
+            "number": 1,
+            "step": "Place sugar, water, and basil in small pot.Gently boil until the sugar has dissolved, about 8 minutes.Take off heat and strain out the basil.Chill.To make the sherbet: Use a blender or immersion blender to puree the strawberries, milk, basil syrup, lime juice, and lime zest together.Churn in ice cream maker according to manufacturer's directions.Note: This doesn't freeze particularly well, so if you do freeze it, you may want to take out the sherbet 20 minutes before you serve.",
+            "ingredients": [
+              {
+                "id": 9316,
+                "name": "strawberries",
+                "localizedName": "strawberries",
+                "image": "strawberries.png"
+              },
+              {
+                "id": 9160,
+                "name": "lime juice",
+                "localizedName": "lime juice",
+                "image": "lime-juice.png"
+              },
+              {
+                "id": 19095,
+                "name": "ice cream",
+                "localizedName": "ice cream",
+                "image": "vanilla-ice-cream.png"
+              },
+              {
+                "id": 1009159,
+                "name": "lime zest",
+                "localizedName": "lime zest",
+                "image": "zest-lime.jpg"
+              },
+              {
+                "id": 19097,
+                "name": "sherbet",
+                "localizedName": "sherbet",
+                "image": "orange-sherbet.png"
+              },
+              {
+                "id": 2044,
+                "name": "basil",
+                "localizedName": "basil",
+                "image": "basil.jpg"
+              },
+              {
+                "id": 19335,
+                "name": "sugar",
+                "localizedName": "sugar",
+                "image": "sugar-in-bowl.png"
+              },
+              {
+                "id": 0,
+                "name": "syrup",
+                "localizedName": "syrup",
+                "image": ""
+              },
+              {
+                "id": 14412,
+                "name": "water",
+                "localizedName": "water",
+                "image": "water.png"
+              },
+              {
+                "id": 1077,
+                "name": "milk",
+                "localizedName": "milk",
+                "image": "milk.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404776,
+                "name": "immersion blender",
+                "localizedName": "immersion blender",
+                "image": "immersion-blender.png"
+              },
+              {
+                "id": 404791,
+                "name": "ice cream machine",
+                "localizedName": "ice cream machine",
+                "image": "ice-cream-machine.jpg"
+              },
+              {
+                "id": 404726,
+                "name": "blender",
+                "localizedName": "blender",
+                "image": "blender.png"
+              },
+              {
+                "id": 404752,
+                "name": "pot",
+                "localizedName": "pot",
+                "image": "stock-pot.jpg"
+              }
+            ],
+            "length": {
+              "number": 28,
+              "unit": "minutes"
+            }
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/strawberry-lime-basil-sherbet-1096280"
+  },
+  {
+    "vegetarian": true,
+    "vegan": false,
+    "glutenFree": false,
+    "dairyFree": false,
+    "veryHealthy": false,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 4,
+    "gaps": "no",
+    "preparationMinutes": -1,
+    "cookingMinutes": -1,
+    "aggregateLikes": 1,
+    "healthScore": 15,
+    "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+    "license": "CC BY 3.0",
+    "sourceName": "Foodista",
+    "pricePerServing": 140.49,
+    "id": 1096301,
+    "title": "Easy Strawberry Shortcake for One",
+    "readyInMinutes": 10,
+    "servings": 1,
+    "sourceUrl": "https://www.foodista.com/recipe/MWQZV35T/marybruces-easy-strawberry-shortcak",
+    "image": "https://spoonacular.com/recipeImages/1096301-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "If you want to add more <b>lacto ovo vegetarian</b> recipes to your recipe box, Easy Strawberry Shortcake for One might be a recipe you should try. One portion of this dish contains about <b>2g of protein</b>, <b>3g of fat</b>, and a total of <b>141 calories</b>. This recipe serves 1 and costs $1.4 per serving. A mixture of graham cracker, table sugar, coolwhip, and a handful of other ingredients are all it takes to make this recipe so flavorful. This recipe from Foodista has 1 fans. It can be enjoyed any time, but it is especially good for <b>Mother's Day</b>. It works well as a budget friendly dessert. From preparation to the plate, this recipe takes around <b>10 minutes</b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 40%</b>, which is not so amazing. If you like this recipe, take a look at these similar recipes: <a href=\"https://spoonacular.com/recipes/easy-strawberry-shortcake-130387\">Easy Strawberry Shortcake</a>, <a href=\"https://spoonacular.com/recipes/easy-strawberry-shortcake-973785\">Easy Strawberry Shortcake</a>, and <a href=\"https://spoonacular.com/recipes/easy-strawberry-shortcake-426778\">Easy Strawberry Shortcake</a>.",
+    "cuisines": [
+
+    ],
+    "dishTypes": [
+      "dessert"
+    ],
+    "diets": [
+      "lacto ovo vegetarian"
+    ],
+    "occasions": [
+      "mother's day"
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "Wash strawberries.",
+            "ingredients": [
+              {
+                "id": 9316,
+                "name": "strawberries",
+                "localizedName": "strawberries",
+                "image": "strawberries.png"
+              }
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 2,
+            "step": "Remove the tops and then cut into slices from the top to the bottom.",
+            "ingredients": [
+
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 3,
+            "step": "Mix the strawberry slices with the sugar and lemon juice and gently toss together. Set to the side",
+            "ingredients": [
+              {
+                "id": 9152,
+                "name": "lemon juice",
+                "localizedName": "lemon juice",
+                "image": "lemon-juice.jpg"
+              },
+              {
+                "id": 9316,
+                "name": "strawberries",
+                "localizedName": "strawberries",
+                "image": "strawberries.png"
+              },
+              {
+                "id": 19335,
+                "name": "sugar",
+                "localizedName": "sugar",
+                "image": "sugar-in-bowl.png"
+              }
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 4,
+            "step": "Place 3 tablespoons of strawberries in the bottom of a small glass jar, top with  crumbled graham cracker, cover with 2 heaping tablespoons of cool whip. Repeat layers. End with cool whip and then use remaining crumbs over the top of the cool whip.Chill for 24 hours if possible, but it is ready to eat immediately if there is no time.",
+            "ingredients": [
+              {
+                "id": 18617,
+                "name": "graham crackers",
+                "localizedName": "graham crackers",
+                "image": "graham-crackers.jpg"
+              },
+              {
+                "id": 9316,
+                "name": "strawberries",
+                "localizedName": "strawberries",
+                "image": "strawberries.png"
+              }
+            ],
+            "equipment": [
+
+            ],
+            "length": {
+              "number": 1440,
+              "unit": "minutes"
+            }
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/easy-strawberry-shortcake-for-one-1096301"
+  },
+  {
+    "vegetarian": false,
+    "vegan": false,
+    "glutenFree": true,
+    "dairyFree": false,
+    "veryHealthy": false,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 31,
+    "gaps": "no",
+    "preparationMinutes": -1,
+    "cookingMinutes": -1,
+    "aggregateLikes": 23,
+    "healthScore": 11,
+    "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+    "license": "CC BY 3.0",
+    "sourceName": "Foodista",
+    "pricePerServing": 238.41,
+    "id": 633139,
+    "title": "Avocado Chocolate Bits Frozen Yogurt",
+    "readyInMinutes": 45,
+    "servings": 4,
+    "sourceUrl": "https://www.foodista.com/recipe/4RLKWMW5/avocado-chocolate-bits-frozen-yogurt",
+    "image": "https://spoonacular.com/recipeImages/633139-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "Avocado Chocolate Bits Frozen Yogurt is a <b>gluten free</b> dessert. This recipe makes 4 servings with <b>701 calories</b>, <b>14g of protein</b>, and <b>38g of fat</b> each. For <b>$2.38 per serving</b>, this recipe <b>covers 23%</b> of your daily requirements of vitamins and minerals. This recipe from Foodista requires whole-milk yogurt, lemon juice, condensed milk, and egg yolks. A couple people made this recipe, and 23 would say it hit the spot. From preparation to the plate, this recipe takes approximately <b>approximately 45 minutes</b>. With a spoonacular <b>score of 59%</b>, this dish is solid. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/avocado-frozen-yogurt-21329\">Avocado Frozen Yogurt</a>, <a href=\"https://spoonacular.com/recipes/confession-77-i-am-a-frozen-yogurt-addict-greek-frozen-yogurt-542430\">Confession #77: I am a Frozen Yogurt addict… Greek Frozen Yogurt</a>, and <a href=\"https://spoonacular.com/recipes/chocolate-frozen-yogurt-546747\">Chocolate Frozen Yogurt</a>.",
+    "cuisines": [
+
+    ],
+    "dishTypes": [
+      "dessert"
+    ],
+    "diets": [
+      "gluten free"
+    ],
+    "occasions": [
+
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "Heat milk and sugar over medium heat in a medium saucepan until just comes to a boil, stirring occasionally.  Stir in the vanilla.",
+            "ingredients": [
+              {
+                "id": 1052050,
+                "name": "vanilla",
+                "localizedName": "vanilla",
+                "image": "vanilla.jpg"
+              },
+              {
+                "id": 19335,
+                "name": "sugar",
+                "localizedName": "sugar",
+                "image": "sugar-in-bowl.png"
+              },
+              {
+                "id": 1077,
+                "name": "milk",
+                "localizedName": "milk",
+                "image": "milk.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404669,
+                "name": "sauce pan",
+                "localizedName": "sauce pan",
+                "image": "sauce-pan.jpg"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "step": "Have ready a large bowl filled with ice and set a small metal bowl over the ice with a strainer set over it.",
+            "ingredients": [
+              {
+                "id": 10014412,
+                "name": "ice",
+                "localizedName": "ice",
+                "image": "ice-cubes.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 405600,
+                "name": "sieve",
+                "localizedName": "sieve",
+                "image": "strainer.png"
+              },
+              {
+                "id": 404783,
+                "name": "bowl",
+                "localizedName": "bowl",
+                "image": "bowl.jpg"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "step": "Place egg yolks in a medium bowl, lightly beaten.  Ladle some of the milk into the egg yolk, whisk it to prevent curdling.",
+            "ingredients": [
+              {
+                "id": 1125,
+                "name": "egg yolk",
+                "localizedName": "egg yolk",
+                "image": "egg-yolk.jpg"
+              },
+              {
+                "id": 1077,
+                "name": "milk",
+                "localizedName": "milk",
+                "image": "milk.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404630,
+                "name": "ladle",
+                "localizedName": "ladle",
+                "image": "ladle.jpg"
+              },
+              {
+                "id": 404661,
+                "name": "whisk",
+                "localizedName": "whisk",
+                "image": "whisk.png"
+              },
+              {
+                "id": 404783,
+                "name": "bowl",
+                "localizedName": "bowl",
+                "image": "bowl.jpg"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "step": "Pour this mixture back into the rest of the milk in the saucepan.  Cook over low-medium heat until mixture is thick and can cover the back of a wooden spoon, about 4 to 8 minutes.",
+            "ingredients": [
+              {
+                "id": 1077,
+                "name": "milk",
+                "localizedName": "milk",
+                "image": "milk.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404732,
+                "name": "wooden spoon",
+                "localizedName": "wooden spoon",
+                "image": "wooden-spoon.jpg"
+              },
+              {
+                "id": 404669,
+                "name": "sauce pan",
+                "localizedName": "sauce pan",
+                "image": "sauce-pan.jpg"
+              }
+            ],
+            "length": {
+              "number": 4,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 5,
+            "step": "Pour the mixture over the strainer into the small bowl; stir in the yogurt.",
+            "ingredients": [
+              {
+                "id": 1116,
+                "name": "yogurt",
+                "localizedName": "yogurt",
+                "image": "plain-yogurt.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 405600,
+                "name": "sieve",
+                "localizedName": "sieve",
+                "image": "strainer.png"
+              },
+              {
+                "id": 404783,
+                "name": "bowl",
+                "localizedName": "bowl",
+                "image": "bowl.jpg"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "step": "Whisk the mixture over the ice bath until it cools completely.",
+            "ingredients": [
+              {
+                "id": 10014412,
+                "name": "ice",
+                "localizedName": "ice",
+                "image": "ice-cubes.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404661,
+                "name": "whisk",
+                "localizedName": "whisk",
+                "image": "whisk.png"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "step": "Scoop the avocado meat and puree in a blender or food processor along with the lemon juice and some of the cooled custard.",
+            "ingredients": [
+              {
+                "id": 9152,
+                "name": "lemon juice",
+                "localizedName": "lemon juice",
+                "image": "lemon-juice.jpg"
+              },
+              {
+                "id": 9037,
+                "name": "avocado",
+                "localizedName": "avocado",
+                "image": "avocado.jpg"
+              },
+              {
+                "id": 19170,
+                "name": "custard",
+                "localizedName": "custard",
+                "image": "custard.png"
+              },
+              {
+                "id": 1065062,
+                "name": "meat",
+                "localizedName": "meat",
+                "image": "whole-chicken.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404771,
+                "name": "food processor",
+                "localizedName": "food processor",
+                "image": "food-processor.png"
+              },
+              {
+                "id": 404726,
+                "name": "blender",
+                "localizedName": "blender",
+                "image": "blender.png"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "step": "Pour this mixture back to the rest of the custard, blend them together until it is thick and creamy.",
+            "ingredients": [
+              {
+                "id": 19170,
+                "name": "custard",
+                "localizedName": "custard",
+                "image": "custard.png"
+              }
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 9,
+            "step": "Freeze the custard in an ice cream maker according to the manufacturers instructions.  Halfway through the freezing process, fold in the chopped bittersweet chocolate.",
+            "ingredients": [
+              {
+                "id": 19903,
+                "name": "bittersweet chocolate",
+                "localizedName": "bittersweet chocolate",
+                "image": "dark-chocolate-pieces.jpg"
+              },
+              {
+                "id": 19095,
+                "name": "ice cream",
+                "localizedName": "ice cream",
+                "image": "vanilla-ice-cream.png"
+              },
+              {
+                "id": 19170,
+                "name": "custard",
+                "localizedName": "custard",
+                "image": "custard.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404791,
+                "name": "ice cream machine",
+                "localizedName": "ice cream machine",
+                "image": "ice-cream-machine.jpg"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "step": "Transfer the frozen yogurt into a freezer-safe container and freeze until solid, at least 4 hours.",
+            "ingredients": [
+              {
+                "id": 93629,
+                "name": "frozen yogurt",
+                "localizedName": "frozen yogurt",
+                "image": "frozen-yogurt.png"
+              }
+            ],
+            "equipment": [
+
+            ],
+            "length": {
+              "number": 240,
+              "unit": "minutes"
+            }
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/avocado-chocolate-bits-frozen-yogurt-633139"
+  }
+]
