@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :restaurants
   post "/signup", to: "users#create", format: 'json'
   post "/login", to: "sessions#create", format: 'json'
   get "/authorized", to: "sessions#show", format: 'json'
