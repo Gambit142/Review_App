@@ -1,0 +1,2019 @@
+[
+  {
+    "vegetarian": true,
+    "vegan": true,
+    "glutenFree": false,
+    "dairyFree": true,
+    "veryHealthy": true,
+    "cheap": false,
+    "veryPopular": true,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 19,
+    "gaps": "no",
+    "preparationMinutes": -1,
+    "cookingMinutes": -1,
+    "aggregateLikes": 1669,
+    "healthScore": 77,
+    "creditsText": "Jen West",
+    "sourceName": "Pink When",
+    "pricePerServing": 83.23,
+    "id": 715594,
+    "title": "Homemade Garlic and Basil French Fries",
+    "readyInMinutes": 45,
+    "servings": 2,
+    "sourceUrl": "http://www.pinkwhen.com/homemade-french-fries/",
+    "image": "https://spoonacular.com/recipeImages/715594-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "The recipe Homemade Garlic and Basil French Fries is ready <b>in roughly 45 minutes</b> and is definitely a super <b>vegan</b> option for lovers of American food. One serving contains <b>596 calories</b>, <b>18g of protein</b>, and <b>15g of fat</b>. For <b>83 cents per serving</b>, you get a side dish that serves 2. Several people made this recipe, and 1669 would say it hit the spot. If you have garlic salt, flour, garlic powder, and a few other ingredients on hand, you can make it. All things considered, we decided this recipe <b>deserves a spoonacular score of 100%</b>. This score is outstanding. Try <a href=\"https://spoonacular.com/recipes/homemade-french-fries-with-fresh-garlic-and-dill-494220\">Homemade French Fries with Fresh Garlic and Dill</a>, <a href=\"https://spoonacular.com/recipes/roasted-garlic-french-fries-519898\">Roasted Garlic French Fries</a>, and <a href=\"https://spoonacular.com/recipes/sweet-potato-fries-with-basil-salt-and-garlic-mayonnaise-120735\">Sweet Potato Fries With Basil Salt and Garlic Mayonnaise</a> for similar recipes.",
+    "cuisines": [
+      "American"
+    ],
+    "dishTypes": [
+      "lunch",
+      "main course",
+      "main dish",
+      "dinner"
+    ],
+    "diets": [
+      "dairy free",
+      "lacto ovo vegetarian",
+      "vegan"
+    ],
+    "occasions": [
+
+    ],
+    "analyzedInstructions": [
+
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/homemade-garlic-and-basil-french-fries-715594"
+  },
+  {
+    "vegetarian": false,
+    "vegan": false,
+    "glutenFree": true,
+    "dairyFree": true,
+    "veryHealthy": false,
+    "cheap": false,
+    "veryPopular": true,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 8,
+    "gaps": "no",
+    "preparationMinutes": 10,
+    "cookingMinutes": 120,
+    "aggregateLikes": 32767,
+    "healthScore": 34,
+    "creditsText": "pinkwhen.com",
+    "sourceName": "pinkwhen.com",
+    "pricePerServing": 201.37,
+    "id": 715424,
+    "title": "The Best Chili",
+    "readyInMinutes": 130,
+    "servings": 8,
+    "sourceUrl": "http://www.pinkwhen.com/the-best-chili-recipe/",
+    "image": "https://spoonacular.com/recipeImages/715424-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "The recipe The Best Chili is ready <b>in about 2 hours and 10 minutes</b> and is definitely a spectacular <b>gluten free and dairy free</b> option for lovers of American food. For <b>$2.01 per serving</b>, this recipe <b>covers 29%</b> of your daily requirements of vitamins and minerals. This recipe makes 8 servings with <b>323 calories</b>, <b>33g of protein</b>, and <b>7g of fat</b> each. This recipe from Pink When has 65475 fans. It works well as a rather cheap main course. It can be enjoyed any time, but it is especially good for <b>The Super Bowl</b>. A mixture of group pepper, oregano, tomato paste, and a handful of other ingredients are all it takes to make this recipe so flavorful. To use up the white sugar you could follow this main course with the <a href=\"https://spoonacular.com/recipes/whole-wheat-refined-sugar-free-sugar-cookies-557184\">Whole Wheat Refined Sugar Free Sugar Cookies</a> as a dessert. All things considered, we decided this recipe <b>deserves a spoonacular score of 97%</b>. This score is outstanding. Try <a href=\"https://spoonacular.com/recipes/5th-annual-chili-contest-entry-2-jamaican-jerk-chili-+-weekly-menu-612833\">5th Annual Chili Contest: Entry #2 – Jamaican Jerk Chili + Weekly Menu</a> for similar recipes.",
+    "cuisines": [
+      "American"
+    ],
+    "dishTypes": [
+      "lunch",
+      "main course",
+      "main dish",
+      "dinner"
+    ],
+    "diets": [
+      "gluten free",
+      "dairy free"
+    ],
+    "occasions": [
+      "super bowl"
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "Brown the lean ground beef in a deep skillet. Cook over medium heat until cooked all the way through, and then drain.In a large pan over high heat add in all of your additional ingredients: cooked ground beef, tomato juice, kidney beans, pinto beans, water, tomato paste, chili powder, cumin, black pepper, oregano, sugar, cayenne pepper, bell pepper, and chopped onions.Bring to a boil.Once your large pot of chili has started to boil, lower the heat and simmer for 2 hours uncovered.",
+            "ingredients": [
+              {
+                "id": 23557,
+                "name": "lean ground beef",
+                "localizedName": "lean ground beef",
+                "image": "fresh-ground-beef.jpg"
+              },
+              {
+                "id": 2031,
+                "name": "cayenne pepper",
+                "localizedName": "cayenne pepper",
+                "image": "chili-powder.jpg"
+              },
+              {
+                "id": 1002030,
+                "name": "black pepper",
+                "localizedName": "black pepper",
+                "image": "pepper.jpg"
+              },
+              {
+                "id": 2009,
+                "name": "chili powder",
+                "localizedName": "chili powder",
+                "image": "chili-powder.jpg"
+              },
+              {
+                "id": 16033,
+                "name": "kidney beans",
+                "localizedName": "kidney beans",
+                "image": "kidney-beans.jpg"
+              },
+              {
+                "id": 11886,
+                "name": "tomato juice",
+                "localizedName": "tomato juice",
+                "image": "tomato-juice.jpg"
+              },
+              {
+                "id": 11887,
+                "name": "tomato paste",
+                "localizedName": "tomato paste",
+                "image": "tomato-paste.jpg"
+              },
+              {
+                "id": 10211821,
+                "name": "bell pepper",
+                "localizedName": "bell pepper",
+                "image": "bell-pepper-orange.png"
+              },
+              {
+                "id": 10023572,
+                "name": "ground beef",
+                "localizedName": "ground beef",
+                "image": "fresh-ground-beef.jpg"
+              },
+              {
+                "id": 16043,
+                "name": "pinto beans",
+                "localizedName": "pinto beans",
+                "image": "pinto-beans.jpg"
+              },
+              {
+                "id": 2027,
+                "name": "oregano",
+                "localizedName": "oregano",
+                "image": "oregano.jpg"
+              },
+              {
+                "id": 11282,
+                "name": "onion",
+                "localizedName": "onion",
+                "image": "brown-onion.png"
+              },
+              {
+                "id": 11819,
+                "name": "chili pepper",
+                "localizedName": "chili pepper",
+                "image": "red-chili.jpg"
+              },
+              {
+                "id": 1002014,
+                "name": "cumin",
+                "localizedName": "cumin",
+                "image": "ground-cumin.jpg"
+              },
+              {
+                "id": 19335,
+                "name": "sugar",
+                "localizedName": "sugar",
+                "image": "sugar-in-bowl.png"
+              },
+              {
+                "id": 14412,
+                "name": "water",
+                "localizedName": "water",
+                "image": "water.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404645,
+                "name": "frying pan",
+                "localizedName": "frying pan",
+                "image": "pan.png"
+              },
+              {
+                "id": 404752,
+                "name": "pot",
+                "localizedName": "pot",
+                "image": "stock-pot.jpg"
+              }
+            ],
+            "length": {
+              "number": 120,
+              "unit": "minutes"
+            }
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/the-best-chili-715424"
+  },
+  {
+    "vegetarian": true,
+    "vegan": true,
+    "glutenFree": false,
+    "dairyFree": true,
+    "veryHealthy": false,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 23,
+    "gaps": "no",
+    "preparationMinutes": -1,
+    "cookingMinutes": -1,
+    "aggregateLikes": 70,
+    "healthScore": 40,
+    "creditsText": "foodista.com",
+    "sourceName": "foodista.com",
+    "pricePerServing": 190.12,
+    "id": 642540,
+    "title": "Falafel Burgers",
+    "readyInMinutes": 45,
+    "servings": 4,
+    "sourceUrl": "http://www.foodista.com/recipe/FBWMX8MY/falafel-burgers",
+    "image": "https://spoonacular.com/recipeImages/642540-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "The recipe Falafel Burgers is ready <b>in approximately 45 minutes</b> and is definitely an amazing <b>vegan</b> option for lovers of American food. For <b>$1.9 per serving</b>, this recipe <b>covers 29%</b> of your daily requirements of vitamins and minerals. One serving contains <b>708 calories</b>, <b>23g of protein</b>, and <b>35g of fat</b>. This recipe is liked by 69 foodies and cooks. It works well as a main course. Head to the store and pick up tahini, chili powder, coriander, and a few other things to make it today. To use up the flour you could follow this main course with the <a href=\"https://spoonacular.com/recipes/apple-tart-with-caramel-sauce-47961\">Apple Tart with Caramel Sauce</a> as a dessert. All things considered, we decided this recipe <b>deserves a spoonacular score of 94%</b>. This score is spectacular. Try <a href=\"https://spoonacular.com/recipes/falafel-burgers-308498\">Falafel Burgers</a>, <a href=\"https://spoonacular.com/recipes/falafel-burgers-31895\">Falafel Burgers</a>, and <a href=\"https://spoonacular.com/recipes/falafel-burgers-216987\">Falafel burgers</a> for similar recipes.",
+    "cuisines": [
+      "American"
+    ],
+    "dishTypes": [
+      "lunch",
+      "main course",
+      "main dish",
+      "dinner"
+    ],
+    "diets": [
+      "dairy free",
+      "lacto ovo vegetarian",
+      "vegan"
+    ],
+    "occasions": [
+
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "Combine the chickpeas, onion, garlic, parsley, flour, spices, and salt, and pulse until the mixture is well combined. Form the mixture into 4 large patties.",
+            "ingredients": [
+              {
+                "id": 16057,
+                "name": "chickpeas",
+                "localizedName": "chickpeas",
+                "image": "chickpeas.png"
+              },
+              {
+                "id": 11297,
+                "name": "parsley",
+                "localizedName": "parsley",
+                "image": "parsley.jpg"
+              },
+              {
+                "id": 11215,
+                "name": "garlic",
+                "localizedName": "garlic",
+                "image": "garlic.png"
+              },
+              {
+                "id": 2035,
+                "name": "spices",
+                "localizedName": "spices",
+                "image": "spices.png"
+              },
+              {
+                "id": 20081,
+                "name": "all purpose flour",
+                "localizedName": "all purpose flour",
+                "image": "flour.png"
+              },
+              {
+                "id": 11282,
+                "name": "onion",
+                "localizedName": "onion",
+                "image": "brown-onion.png"
+              },
+              {
+                "id": 2047,
+                "name": "salt",
+                "localizedName": "salt",
+                "image": "salt.jpg"
+              }
+            ],
+            "equipment": [
+
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Heat the oil in a large, nonstick skillet set over medium-high heat. Cook for about 3 minutes per side.Make the tahini sauce",
+        "steps": [
+          {
+            "number": 1,
+            "step": "Whisk the tahini paste with the water, lemon juice and zest, salt, and freshly ground black pepper in a mixing bowl.",
+            "ingredients": [
+              {
+                "id": 1002030,
+                "name": "ground black pepper",
+                "localizedName": "ground black pepper",
+                "image": "pepper.jpg"
+              },
+              {
+                "id": 12698,
+                "name": "tahini",
+                "localizedName": "tahini",
+                "image": "tahini-paste.png"
+              },
+              {
+                "id": 9152,
+                "name": "lemon juice",
+                "localizedName": "lemon juice",
+                "image": "lemon-juice.jpg"
+              },
+              {
+                "id": 14412,
+                "name": "water",
+                "localizedName": "water",
+                "image": "water.png"
+              },
+              {
+                "id": 2047,
+                "name": "salt",
+                "localizedName": "salt",
+                "image": "salt.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 405907,
+                "name": "mixing bowl",
+                "localizedName": "mixing bowl",
+                "image": "mixing-bowl.jpg"
+              },
+              {
+                "id": 404661,
+                "name": "whisk",
+                "localizedName": "whisk",
+                "image": "whisk.png"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "step": "Serve the burgers in pita pockets or on a bun. Top them with tahini sauce, lettuce, and tomato.",
+            "ingredients": [
+              {
+                "id": 11252,
+                "name": "lettuce",
+                "localizedName": "lettuce",
+                "image": "iceberg-lettuce.jpg"
+              },
+              {
+                "id": 12698,
+                "name": "tahini",
+                "localizedName": "tahini",
+                "image": "tahini-paste.png"
+              },
+              {
+                "id": 11529,
+                "name": "tomato",
+                "localizedName": "tomato",
+                "image": "tomato.png"
+              },
+              {
+                "id": 0,
+                "name": "sauce",
+                "localizedName": "sauce",
+                "image": ""
+              },
+              {
+                "id": 18413,
+                "name": "pita",
+                "localizedName": "pita",
+                "image": "pita-bread.jpg"
+              },
+              {
+                "id": 0,
+                "name": "roll",
+                "localizedName": "roll",
+                "image": "dinner-yeast-rolls.jpg"
+              }
+            ],
+            "equipment": [
+
+            ]
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/falafel-burgers-642540"
+  },
+  {
+    "vegetarian": false,
+    "vegan": false,
+    "glutenFree": true,
+    "dairyFree": false,
+    "veryHealthy": true,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 10,
+    "gaps": "no",
+    "preparationMinutes": -1,
+    "cookingMinutes": -1,
+    "aggregateLikes": 12,
+    "healthScore": 64,
+    "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+    "license": "CC BY 3.0",
+    "sourceName": "Foodista",
+    "pricePerServing": 300.93,
+    "id": 646512,
+    "title": "Salmon Caesar Salad",
+    "readyInMinutes": 45,
+    "servings": 2,
+    "sourceUrl": "http://www.foodista.com/recipe/36WZD7DS/healthy-salmon-caesar-salad-recipe",
+    "image": "https://spoonacular.com/recipeImages/646512-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "Salmon Caesar Salad might be just the main course you are searching for. This gluten free, primal, fodmap friendly, and pescatarian recipe serves 2 and costs <b>$3.01 per serving</b>. One serving contains <b>393 calories</b>, <b>27g of protein</b>, and <b>29g of fat</b>. Only a few people made this recipe, and 7 would say it hit the spot. A mixture of caesar dressing, romaine, slivered almonds, and a handful of other ingredients are all it takes to make this recipe so delicious. To use up the salt you could follow this main course with the <a href=\"https://spoonacular.com/recipes/apple-turnovers-recipe-48175\">Apple Turnovers Recipe</a> as a dessert. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. This recipe is typical of American cuisine. All things considered, we decided this recipe <b>deserves a spoonacular score of 92%</b>. This score is excellent. Try <a href=\"https://spoonacular.com/recipes/salmon-caesar-salad-521731\">Salmon Caesar Salad</a>, <a href=\"https://spoonacular.com/recipes/salmon-caesar-salad-418441\">Salmon Caesar Salad</a>, and <a href=\"https://spoonacular.com/recipes/salmon-caesar-salad-277721\">Salmon Caesar Salad</a> for similar recipes.",
+    "cuisines": [
+      "American"
+    ],
+    "dishTypes": [
+      "salad"
+    ],
+    "diets": [
+      "gluten free",
+      "primal",
+      "pescatarian",
+      "ketogenic"
+    ],
+    "occasions": [
+
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "Heat up a skillet/frying pan and sir the Salmon in the coconut oil/olive oil (don't forget to add the salt and paprika to it) until very lightly browned on each side (i like my salmon slightly undercooked-its up to you if you want it more done). Top with freshly squeezed lemon juice and let it sit in the frying pan for about 1 minute. In a Large bowl, mix the romaine lettuce with the Caesar salad dressing and dump it out into a large plate, top off with Asiago/Parmesan cheese and you can also sprinkle the toasted almonds on now.",
+            "ingredients": [
+              {
+                "id": 43015,
+                "name": "caesar salad dressing",
+                "localizedName": "caesar salad dressing",
+                "image": "coleslaw-or-caesar-dressing.jpg"
+              },
+              {
+                "id": 1033,
+                "name": "parmesan",
+                "localizedName": "parmesan",
+                "image": "parmesan.jpg"
+              },
+              {
+                "id": 10111251,
+                "name": "romaine",
+                "localizedName": "romaine",
+                "image": "romaine"
+              },
+              {
+                "id": 4047,
+                "name": "coconut oil",
+                "localizedName": "coconut oil",
+                "image": "oil-coconut.jpg"
+              },
+              {
+                "id": 9152,
+                "name": "lemon juice",
+                "localizedName": "lemon juice",
+                "image": "lemon-juice.jpg"
+              },
+              {
+                "id": 4053,
+                "name": "olive oil",
+                "localizedName": "olive oil",
+                "image": "olive-oil.jpg"
+              },
+              {
+                "id": 12061,
+                "name": "almonds",
+                "localizedName": "almonds",
+                "image": "almonds.jpg"
+              },
+              {
+                "id": 2028,
+                "name": "paprika",
+                "localizedName": "paprika",
+                "image": "paprika.jpg"
+              },
+              {
+                "id": 1001033,
+                "name": "asiago cheese",
+                "localizedName": "asiago cheese",
+                "image": "parmesan.jpg"
+              },
+              {
+                "id": 15076,
+                "name": "salmon",
+                "localizedName": "salmon",
+                "image": "salmon.png"
+              },
+              {
+                "id": 2047,
+                "name": "salt",
+                "localizedName": "salt",
+                "image": "salt.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404645,
+                "name": "frying pan",
+                "localizedName": "frying pan",
+                "image": "pan.png"
+              },
+              {
+                "id": 404783,
+                "name": "bowl",
+                "localizedName": "bowl",
+                "image": "bowl.jpg"
+              }
+            ],
+            "length": {
+              "number": 1,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 2,
+            "step": "Place the Salmon (sliced) on top. You can sprinkle it with some more fresh lemon juice:) and black pepper!",
+            "ingredients": [
+              {
+                "id": 1002030,
+                "name": "black pepper",
+                "localizedName": "black pepper",
+                "image": "pepper.jpg"
+              },
+              {
+                "id": 9152,
+                "name": "lemon juice",
+                "localizedName": "lemon juice",
+                "image": "lemon-juice.jpg"
+              },
+              {
+                "id": 15076,
+                "name": "salmon",
+                "localizedName": "salmon",
+                "image": "salmon.png"
+              }
+            ],
+            "equipment": [
+
+            ]
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/salmon-caesar-salad-646512"
+  },
+  {
+    "vegetarian": false,
+    "vegan": false,
+    "glutenFree": true,
+    "dairyFree": true,
+    "veryHealthy": true,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 19,
+    "gaps": "no",
+    "preparationMinutes": 15,
+    "cookingMinutes": 25,
+    "aggregateLikes": 11,
+    "healthScore": 63,
+    "creditsText": "Jen West",
+    "sourceName": "Pink When",
+    "pricePerServing": 481.76,
+    "id": 1046982,
+    "title": "How to Make the Perfect Sweet Potato Sloppy Joes",
+    "readyInMinutes": 40,
+    "servings": 4,
+    "sourceUrl": "https://www.pinkwhen.com/how-to-make-the-perfect-sweet-potato-sloppy-joes/",
+    "image": "https://spoonacular.com/recipeImages/1046982-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "How to Make the Perfect Sweet Potato Sloppy Joes might be just the <b>American</b> recipe you are searching for. One portion of this dish contains roughly <b>46g of protein</b>, <b>7g of fat</b>, and a total of <b>407 calories</b>. For <b>$3.99 per serving</b>, you get a main course that serves 4. 10 people have tried and liked this recipe. Head to the store and pick up salt and pepper, water, ground turkey, and a few other things to make it today. It is a good option if you're following a <b>gluten free, dairy free, paleolithic, and primal</b> diet. From preparation to the plate, this recipe takes around <b>40 minutes</b>. It is brought to you by Pink When. Overall, this recipe earns a <b>solid spoonacular score of 50%</b>. Similar recipes are <a href=\"https://spoonacular.com/recipes/just-perfect-sloppy-joes-82826\">Just Perfect Sloppy Joes</a>, <a href=\"https://spoonacular.com/recipes/how-to-make-classic-sloppy-joes-471307\">How to Make Classic Sloppy Joes</a>, and <a href=\"https://spoonacular.com/recipes/make-ahead-sloppy-joes-428874\">Make-Ahead Sloppy Joes</a>.",
+    "cuisines": [
+      "American"
+    ],
+    "dishTypes": [
+      "lunch",
+      "main course",
+      "main dish",
+      "dinner"
+    ],
+    "diets": [
+      "gluten free",
+      "dairy free",
+      "paleolithic",
+      "primal",
+      "whole 30"
+    ],
+    "occasions": [
+
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "Preheat the oven to 425 degrees. Pierce the sweet potatoes all over the skin with a fork. Rub the outside of the potatoes with olive oil and cover with foil.",
+            "ingredients": [
+              {
+                "id": 11507,
+                "name": "sweet potato",
+                "localizedName": "sweet potato",
+                "image": "sweet-potato.png"
+              },
+              {
+                "id": 4053,
+                "name": "olive oil",
+                "localizedName": "olive oil",
+                "image": "olive-oil.jpg"
+              },
+              {
+                "id": 11352,
+                "name": "potato",
+                "localizedName": "potato",
+                "image": "potatoes-yukon-gold.png"
+              },
+              {
+                "id": 1012034,
+                "name": "dry seasoning rub",
+                "localizedName": "dry seasoning rub",
+                "image": "seasoning.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404765,
+                "name": "aluminum foil",
+                "localizedName": "aluminum foil",
+                "image": "aluminum-foil.png"
+              },
+              {
+                "id": 404784,
+                "name": "oven",
+                "localizedName": "oven",
+                "image": "oven.jpg"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "step": "Bake in the oven for 1 hour until fully cooked.",
+            "ingredients": [
+
+            ],
+            "equipment": [
+              {
+                "id": 404784,
+                "name": "oven",
+                "localizedName": "oven",
+                "image": "oven.jpg"
+              }
+            ],
+            "length": {
+              "number": 60,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 3,
+            "step": "Brown the ground turkey in a skillet on medium heat. Once it's finished cooking, add the onion, bell pepper, and garlic.",
+            "ingredients": [
+              {
+                "id": 5662,
+                "name": "ground turkey",
+                "localizedName": "ground turkey",
+                "image": "meat-ground.jpg"
+              },
+              {
+                "id": 10211821,
+                "name": "bell pepper",
+                "localizedName": "bell pepper",
+                "image": "bell-pepper-orange.png"
+              },
+              {
+                "id": 11215,
+                "name": "garlic",
+                "localizedName": "garlic",
+                "image": "garlic.png"
+              },
+              {
+                "id": 11282,
+                "name": "onion",
+                "localizedName": "onion",
+                "image": "brown-onion.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404645,
+                "name": "frying pan",
+                "localizedName": "frying pan",
+                "image": "pan.png"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "step": "Mix well. Cook until the mixture is fully cooked and starts to crumble.",
+            "ingredients": [
+
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 5,
+            "step": "Stir in the garlic, water, tomato paste, and tomato sauce. Stir until mixed well. Turn heat down to low and simmer for 20 minutes, stirring occasionally.",
+            "ingredients": [
+              {
+                "id": 11887,
+                "name": "tomato paste",
+                "localizedName": "tomato paste",
+                "image": "tomato-paste.jpg"
+              },
+              {
+                "id": 11549,
+                "name": "tomato sauce",
+                "localizedName": "tomato sauce",
+                "image": "tomato-sauce-or-pasta-sauce.jpg"
+              },
+              {
+                "id": 11215,
+                "name": "garlic",
+                "localizedName": "garlic",
+                "image": "garlic.png"
+              },
+              {
+                "id": 14412,
+                "name": "water",
+                "localizedName": "water",
+                "image": "water.png"
+              }
+            ],
+            "equipment": [
+
+            ],
+            "length": {
+              "number": 20,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 6,
+            "step": "Remove the sweet potatoes from the foil and slice down the middle. Mash up the insides with a fork and pour the sloppy joe mix over sweet potatoes.",
+            "ingredients": [
+              {
+                "id": 11507,
+                "name": "sweet potato",
+                "localizedName": "sweet potato",
+                "image": "sweet-potato.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404765,
+                "name": "aluminum foil",
+                "localizedName": "aluminum foil",
+                "image": "aluminum-foil.png"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "step": "Serve and enjoy!",
+            "ingredients": [
+
+            ],
+            "equipment": [
+
+            ]
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/how-to-make-the-perfect-sweet-potato-sloppy-joes-1046982"
+  },
+  {
+    "vegetarian": false,
+    "vegan": false,
+    "glutenFree": true,
+    "dairyFree": true,
+    "veryHealthy": false,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 17,
+    "gaps": "no",
+    "preparationMinutes": -1,
+    "cookingMinutes": -1,
+    "aggregateLikes": 1,
+    "healthScore": 51,
+    "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+    "license": "CC BY 3.0",
+    "sourceName": "Foodista",
+    "pricePerServing": 166.59,
+    "id": 633837,
+    "title": "Baked Sweet Potato Fries",
+    "readyInMinutes": 45,
+    "servings": 1,
+    "sourceUrl": "http://www.foodista.com/recipe/HDVQBNZX/baked-sweet-potato-fries",
+    "image": "https://spoonacular.com/recipeImages/633837-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "Need a <b>gluten free, dairy free, and whole 30 side dish</b>? Baked Sweet Potato Fries could be an outstanding recipe to try. For <b>$1.67 per serving</b>, this recipe <b>covers 23%</b> of your daily requirements of vitamins and minerals. This recipe makes 1 servings with <b>496 calories</b>, <b>7g of protein</b>, and <b>12g of fat</b> each. A mixture of margarine, dash nutmeg, t seasoned salt, and a handful of other ingredients are all it takes to make this recipe so flavorful. This recipe from Foodista has 1 fans. From preparation to the plate, this recipe takes around <b>45 minutes</b>. This recipe is typical of American cuisine. All things considered, we decided this recipe <b>deserves a spoonacular score of 89%</b>. This score is tremendous. Try <a href=\"https://spoonacular.com/recipes/baked-sweet-potato-fries-473667\">Baked Sweet Potato Fries</a>, <a href=\"https://spoonacular.com/recipes/baked-sweet-potato-fries-577316\">Baked Sweet Potato Fries</a>, and <a href=\"https://spoonacular.com/recipes/baked-sweet-potato-fries-121468\">Baked Sweet Potato Fries</a> for similar recipes.",
+    "cuisines": [
+      "American"
+    ],
+    "dishTypes": [
+      "side dish"
+    ],
+    "diets": [
+      "gluten free",
+      "dairy free",
+      "whole 30"
+    ],
+    "occasions": [
+
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "Spray a 15 x 10 x 1 inch baking pan with nonstick coating. Scrub potatoes; cut lengthwise into quarters, then cut each quarter into 2 wedges. Arrange potatoes in a single layer in pan.",
+            "ingredients": [
+              {
+                "id": 11352,
+                "name": "potato",
+                "localizedName": "potato",
+                "image": "potatoes-yukon-gold.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404646,
+                "name": "baking pan",
+                "localizedName": "baking pan",
+                "image": "roasting-pan.jpg"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "step": "Combine margarine or butter, salt, and nutmeg.",
+            "ingredients": [
+              {
+                "id": 4073,
+                "name": "margarine",
+                "localizedName": "margarine",
+                "image": "butter-sliced.jpg"
+              },
+              {
+                "id": 1001,
+                "name": "butter",
+                "localizedName": "butter",
+                "image": "butter-sliced.jpg"
+              },
+              {
+                "id": 2025,
+                "name": "nutmeg",
+                "localizedName": "nutmeg",
+                "image": "ground-nutmeg.jpg"
+              },
+              {
+                "id": 2047,
+                "name": "salt",
+                "localizedName": "salt",
+                "image": "salt.jpg"
+              }
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 3,
+            "step": "Brush onto potatoes.",
+            "ingredients": [
+              {
+                "id": 11352,
+                "name": "potato",
+                "localizedName": "potato",
+                "image": "potatoes-yukon-gold.png"
+              }
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 4,
+            "step": "Bake in a 450 oven 20 minutes or until brown and tender.",
+            "ingredients": [
+
+            ],
+            "equipment": [
+              {
+                "id": 404784,
+                "name": "oven",
+                "localizedName": "oven",
+                "image": "oven.jpg"
+              }
+            ],
+            "length": {
+              "number": 20,
+              "unit": "minutes"
+            }
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/baked-sweet-potato-fries-633837"
+  },
+  {
+    "vegetarian": true,
+    "vegan": false,
+    "glutenFree": false,
+    "dairyFree": false,
+    "veryHealthy": true,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 19,
+    "gaps": "no",
+    "preparationMinutes": -1,
+    "cookingMinutes": -1,
+    "aggregateLikes": 1,
+    "healthScore": 70,
+    "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+    "license": "CC BY 3.0",
+    "sourceName": "Foodista",
+    "pricePerServing": 220.66,
+    "id": 639392,
+    "title": "Chunky Two-Bean Chili",
+    "readyInMinutes": 45,
+    "servings": 6,
+    "sourceUrl": "http://www.foodista.com/recipe/3RLLDMHY/chunky-two-bean-chili",
+    "image": "https://spoonacular.com/recipeImages/639392-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "Chunky Two-Bean Chili might be just the main course you are searching for. For <b>$2.19 per serving</b>, this recipe <b>covers 39%</b> of your daily requirements of vitamins and minerals. Watching your figure? This vegetarian recipe has <b>658 calories</b>, <b>23g of protein</b>, and <b>28g of fat</b> per serving. This recipe is typical of American cuisine. This recipe is liked by 1 foodies and cooks. From preparation to the plate, this recipe takes about <b>45 minutes</b>. It will be a hit at your <b>The Super Bowl</b> event. Head to the store and pick up monterey jack cheese, garnishes, garlic cloves, and a few other things to make it today. To use up the olive oil you could follow this main course with the <a href=\"https://spoonacular.com/recipes/sauteed-banana-granola-and-yogurt-parfait-624619\">Sauteed Banana, Granolan and Yogurt Parfait</a> as a dessert. All things considered, we decided this recipe <b>deserves a spoonacular score of 89%</b>. This score is outstanding. Try <a href=\"https://spoonacular.com/recipes/chunky-no-bean-chili-927681\">Chunky No Bean Chili</a>, <a href=\"https://spoonacular.com/recipes/chunky-no-bean-chili-769071\">Chunky No Bean Chili</a>, and <a href=\"https://spoonacular.com/recipes/chunky-two-bean-and-beef-chili-238882\">Chunky Two-Bean and Beef Chili</a> for similar recipes.",
+    "cuisines": [
+      "American"
+    ],
+    "dishTypes": [
+      "lunch",
+      "main course",
+      "main dish",
+      "dinner"
+    ],
+    "diets": [
+      "lacto ovo vegetarian"
+    ],
+    "occasions": [
+      "super bowl"
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "Rinse and drain black beans and discard any rocks or funky-looking (discolored, wrinkly) beans.In heavy soup pot, combine black beans, 6 cups of water, salt and bay leaf.Bring to a boil.Reduce heat and simmer, partially covered, until beans are tender, about 1 hours.Keep an eye on the water, and add more if needed, 1 cup at a time. Beans should have some liquid remaining, but they should not be overly soupy.When beans are almost done, prepare the vegetables.In large saucepan, heat the olive oil and saut the shallot, garlic, red pepper, and tomatillos until tender, 10-15 minutes.When beans are completely tender, remove the bay leaf, and add the sauted vegetables and any remaining oil, the salt, pepper, spices, kidney beans, crushed tomatoes, and chocolate chips.Bring chili to a boil.Reduce heat and simmer, uncovered, until chili thickens and flavors meld, about 30 minutes.Stir occasionally.",
+            "ingredients": [
+              {
+                "id": 11693,
+                "name": "crushed tomatoes",
+                "localizedName": "crushed tomatoes",
+                "image": "tomatoes-canned.png"
+              },
+              {
+                "id": 99278,
+                "name": "chocolate chips",
+                "localizedName": "chocolate chips",
+                "image": "chocolate-chips.jpg"
+              },
+              {
+                "id": 16033,
+                "name": "kidney beans",
+                "localizedName": "kidney beans",
+                "image": "kidney-beans.jpg"
+              },
+              {
+                "id": 16015,
+                "name": "black beans",
+                "localizedName": "black beans",
+                "image": "black-beans.jpg"
+              },
+              {
+                "id": 11821,
+                "name": "red pepper",
+                "localizedName": "red pepper",
+                "image": "red-pepper.jpg"
+              },
+              {
+                "id": 11954,
+                "name": "tomatillos",
+                "localizedName": "tomatillos",
+                "image": "tomatillos.jpg"
+              },
+              {
+                "id": 11583,
+                "name": "vegetable",
+                "localizedName": "vegetable",
+                "image": "mixed-vegetables.png"
+              },
+              {
+                "id": 4053,
+                "name": "olive oil",
+                "localizedName": "olive oil",
+                "image": "olive-oil.jpg"
+              },
+              {
+                "id": 2004,
+                "name": "bay leaves",
+                "localizedName": "bay leaves",
+                "image": "bay-leaves.jpg"
+              },
+              {
+                "id": 11677,
+                "name": "shallot",
+                "localizedName": "shallot",
+                "image": "shallots.jpg"
+              },
+              {
+                "id": 11215,
+                "name": "garlic",
+                "localizedName": "garlic",
+                "image": "garlic.png"
+              },
+              {
+                "id": 1002030,
+                "name": "pepper",
+                "localizedName": "pepper",
+                "image": "pepper.jpg"
+              },
+              {
+                "id": 2035,
+                "name": "spices",
+                "localizedName": "spices",
+                "image": "spices.png"
+              },
+              {
+                "id": 0,
+                "name": "beans",
+                "localizedName": "beans",
+                "image": "kidney-beans.jpg"
+              },
+              {
+                "id": 11819,
+                "name": "chili pepper",
+                "localizedName": "chili pepper",
+                "image": "red-chili.jpg"
+              },
+              {
+                "id": 14412,
+                "name": "water",
+                "localizedName": "water",
+                "image": "water.png"
+              },
+              {
+                "id": 2047,
+                "name": "salt",
+                "localizedName": "salt",
+                "image": "salt.jpg"
+              },
+              {
+                "id": 0,
+                "name": "soup",
+                "localizedName": "soup",
+                "image": ""
+              },
+              {
+                "id": 4582,
+                "name": "cooking oil",
+                "localizedName": "cooking oil",
+                "image": "vegetable-oil.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404669,
+                "name": "sauce pan",
+                "localizedName": "sauce pan",
+                "image": "sauce-pan.jpg"
+              },
+              {
+                "id": 404752,
+                "name": "pot",
+                "localizedName": "pot",
+                "image": "stock-pot.jpg"
+              }
+            ],
+            "length": {
+              "number": 105,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 2,
+            "step": "Remove pot from heat and let chili cool for about 20 minutes before pureeing two cups in blender. If you try to puree hot liquid in a blender, the people who move into your house after you will inherit the splatter, and they will curse you.Return pureed chili to pot and mix through.Taste, and add salt and pepper if needed.",
+            "ingredients": [
+              {
+                "id": 1102047,
+                "name": "salt and pepper",
+                "localizedName": "salt and pepper",
+                "image": "salt-and-pepper.jpg"
+              },
+              {
+                "id": 11819,
+                "name": "chili pepper",
+                "localizedName": "chili pepper",
+                "image": "red-chili.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404726,
+                "name": "blender",
+                "localizedName": "blender",
+                "image": "blender.png"
+              },
+              {
+                "id": 404752,
+                "name": "pot",
+                "localizedName": "pot",
+                "image": "stock-pot.jpg"
+              }
+            ],
+            "length": {
+              "number": 20,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 3,
+            "step": "Heat through until warm, about 5 minutes.Ladle into bowls and heap on whichever garnishes speak to you.",
+            "ingredients": [
+
+            ],
+            "equipment": [
+              {
+                "id": 404783,
+                "name": "bowl",
+                "localizedName": "bowl",
+                "image": "bowl.jpg"
+              },
+              {
+                "id": 404630,
+                "name": "ladle",
+                "localizedName": "ladle",
+                "image": "ladle.jpg"
+              }
+            ],
+            "length": {
+              "number": 5,
+              "unit": "minutes"
+            }
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/chunky-two-bean-chili-639392"
+  },
+  {
+    "vegetarian": false,
+    "vegan": false,
+    "glutenFree": false,
+    "dairyFree": true,
+    "veryHealthy": true,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 16,
+    "gaps": "no",
+    "preparationMinutes": -1,
+    "cookingMinutes": -1,
+    "aggregateLikes": 1,
+    "healthScore": 87,
+    "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+    "license": "CC BY 3.0",
+    "sourceName": "Foodista",
+    "pricePerServing": 256.34,
+    "id": 637897,
+    "title": "Chicken and Chickpea Chili",
+    "readyInMinutes": 60,
+    "servings": 6,
+    "sourceUrl": "http://www.foodista.com/recipe/PD75LLZQ/chicken-and-chickpea-chili",
+    "image": "https://spoonacular.com/recipeImages/637897-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "The recipe Chicken and Chickpea Chili is ready <b>in around 1 hour</b> and is definitely a tremendous <b>dairy free</b> option for lovers of American food. For <b>$2.18 per serving</b>, this recipe <b>covers 43%</b> of your daily requirements of vitamins and minerals. One serving contains <b>607 calories</b>, <b>37g of protein</b>, and <b>18g of fat</b>. It can be enjoyed any time, but it is especially good for <b>The Super Bowl</b>. Not a lot of people made this recipe, and 1 would say it hit the spot. Head to the store and pick up garlic, bay leaf, olive oil, and a few other things to make it today. To use up the kosher salt you could follow this main course with the <a href=\"https://spoonacular.com/recipes/low-fat-crumbs-cake-kosher-dairy-130933\">Low Fat Crumbs Cake (Kosher-Dairy)</a> as a dessert. It works well as a reasonably priced main course. All things considered, we decided this recipe <b>deserves a spoonacular score of 85%</b>. This score is super. Try <a href=\"https://spoonacular.com/recipes/slow-cooker-salsa-verde-chicken-chickpea-chili-720884\">Slow Cooker Salsa Verde Chicken Chickpea Chili</a>, <a href=\"https://spoonacular.com/recipes/chickpea-chili-31899\">Chickpea Chili</a>, and <a href=\"https://spoonacular.com/recipes/lamb-chickpea-chili-for-two-696854\">Lamb & Chickpea Chili for Two</a> for similar recipes.",
+    "cuisines": [
+      "American"
+    ],
+    "dishTypes": [
+      "lunch",
+      "main course",
+      "main dish",
+      "dinner"
+    ],
+    "diets": [
+      "dairy free"
+    ],
+    "occasions": [
+      "super bowl"
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "Heat olive oil in a Dutch oven or soup pot.Flame should be medium to low.",
+            "ingredients": [
+              {
+                "id": 4053,
+                "name": "olive oil",
+                "localizedName": "olive oil",
+                "image": "olive-oil.jpg"
+              },
+              {
+                "id": 0,
+                "name": "soup",
+                "localizedName": "soup",
+                "image": ""
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404667,
+                "name": "dutch oven",
+                "localizedName": "dutch oven",
+                "image": "dutch-oven.jpg"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "step": "Add onions and cook for about 5 minutes, or until soft and translucent.",
+            "ingredients": [
+              {
+                "id": 11282,
+                "name": "onion",
+                "localizedName": "onion",
+                "image": "brown-onion.png"
+              }
+            ],
+            "equipment": [
+
+            ],
+            "length": {
+              "number": 5,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 3,
+            "step": "Add the garlic.  Cook for about 1 minutes.",
+            "ingredients": [
+              {
+                "id": 11215,
+                "name": "garlic",
+                "localizedName": "garlic",
+                "image": "garlic.png"
+              }
+            ],
+            "equipment": [
+
+            ],
+            "length": {
+              "number": 1,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 4,
+            "step": "Add the spices and move around pot for about 1-2 minutes.",
+            "ingredients": [
+              {
+                "id": 2035,
+                "name": "spices",
+                "localizedName": "spices",
+                "image": "spices.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404752,
+                "name": "pot",
+                "localizedName": "pot",
+                "image": "stock-pot.jpg"
+              }
+            ],
+            "length": {
+              "number": 2,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 5,
+            "step": "Add the ground meat, 1 teaspoon of salt and  a teaspoon of pepper.  Cook meat until completely cooked thru.Then add the chickpeas.",
+            "ingredients": [
+              {
+                "id": 10023572,
+                "name": "ground beef",
+                "localizedName": "ground beef",
+                "image": "fresh-ground-beef.jpg"
+              },
+              {
+                "id": 16057,
+                "name": "chickpeas",
+                "localizedName": "chickpeas",
+                "image": "chickpeas.png"
+              },
+              {
+                "id": 1002030,
+                "name": "pepper",
+                "localizedName": "pepper",
+                "image": "pepper.jpg"
+              },
+              {
+                "id": 1065062,
+                "name": "meat",
+                "localizedName": "meat",
+                "image": "whole-chicken.jpg"
+              },
+              {
+                "id": 2047,
+                "name": "salt",
+                "localizedName": "salt",
+                "image": "salt.jpg"
+              }
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 6,
+            "step": "Add the tomatoes, sugar and chicken stock.Bring the soup to a bowl.Then reduce heat and allow to simmer for about 40-45 minutes.  Taste.",
+            "ingredients": [
+              {
+                "id": 6172,
+                "name": "chicken stock",
+                "localizedName": "chicken stock",
+                "image": "chicken-broth.png"
+              },
+              {
+                "id": 11529,
+                "name": "tomato",
+                "localizedName": "tomato",
+                "image": "tomato.png"
+              },
+              {
+                "id": 19335,
+                "name": "sugar",
+                "localizedName": "sugar",
+                "image": "sugar-in-bowl.png"
+              },
+              {
+                "id": 0,
+                "name": "soup",
+                "localizedName": "soup",
+                "image": ""
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404783,
+                "name": "bowl",
+                "localizedName": "bowl",
+                "image": "bowl.jpg"
+              }
+            ],
+            "length": {
+              "number": 45,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 7,
+            "step": "Add more salt and pepper if necessary.",
+            "ingredients": [
+              {
+                "id": 1102047,
+                "name": "salt and pepper",
+                "localizedName": "salt and pepper",
+                "image": "salt-and-pepper.jpg"
+              }
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 8,
+            "step": "Add the orzo pasta.  Cook for 6 minutes.Turn off heat and add the spinach.",
+            "ingredients": [
+              {
+                "id": 10920420,
+                "name": "orzo",
+                "localizedName": "orzo",
+                "image": "orzo.jpg"
+              },
+              {
+                "id": 10011457,
+                "name": "spinach",
+                "localizedName": "spinach",
+                "image": "spinach.jpg"
+              }
+            ],
+            "equipment": [
+
+            ],
+            "length": {
+              "number": 6,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 9,
+            "step": "Serve with crusty bread or crackers",
+            "ingredients": [
+              {
+                "id": 10018029,
+                "name": "crusty bread",
+                "localizedName": "crusty bread",
+                "image": "crusty-bread.jpg"
+              },
+              {
+                "id": 18621,
+                "name": "crackers",
+                "localizedName": "crackers",
+                "image": "crackers.jpg"
+              }
+            ],
+            "equipment": [
+
+            ]
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/chicken-and-chickpea-chili-637897"
+  },
+  {
+    "vegetarian": false,
+    "vegan": false,
+    "glutenFree": true,
+    "dairyFree": false,
+    "veryHealthy": false,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 9,
+    "gaps": "no",
+    "preparationMinutes": -1,
+    "cookingMinutes": -1,
+    "aggregateLikes": 10,
+    "healthScore": 40,
+    "creditsText": "foodista.com",
+    "sourceName": "foodista.com",
+    "pricePerServing": 300.37,
+    "id": 638552,
+    "title": "Chili chops with cauliflower salad",
+    "readyInMinutes": 45,
+    "servings": 4,
+    "sourceUrl": "http://www.foodista.com/recipe/B2NXFCCF/chili-chops-with-cauliflower-salad",
+    "image": "https://spoonacular.com/recipeImages/638552-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "Chili chops with cauliflower salad might be just the main course you are searching for. This gluten free recipe serves 4 and costs <b>$3.0 per serving</b>. One serving contains <b>454 calories</b>, <b>34g of protein</b>, and <b>26g of fat</b>. 10 people have made this recipe and would make it again. It is perfect for <b>The Super Bowl</b>. Head to the store and pick up canned tomatoes, salt, tarragon, and a few other things to make it today. To use up the salt and pepper you could follow this main course with the <a href=\"https://spoonacular.com/recipes/dr-pepper-cake-with-flour-cooked-frosting-539165\">Dr. Pepper Cake with Flour Cooked Frosting</a> as a dessert. This recipe is typical of American cuisine. From preparation to the plate, this recipe takes around <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 88%</b>. This score is great. Try <a href=\"https://spoonacular.com/recipes/lamb-chops-with-cauliflower-and-raisins-15646\">Lamb Chops with Cauliflower and Raisins</a>, <a href=\"https://spoonacular.com/recipes/chili-chops-399509\">Chili Chops</a>, and <a href=\"https://spoonacular.com/recipes/chili-chops-417937\">Chili Chops</a> for similar recipes.",
+    "cuisines": [
+      "American"
+    ],
+    "dishTypes": [
+      "lunch",
+      "main course",
+      "main dish",
+      "dinner"
+    ],
+    "diets": [
+      "gluten free"
+    ],
+    "occasions": [
+      "super bowl"
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "Season chops with salt and pepper and brown them in a nonstick skillet over medium-high heat for about 2 minutes per side.",
+            "ingredients": [
+              {
+                "id": 1102047,
+                "name": "salt and pepper",
+                "localizedName": "salt and pepper",
+                "image": "salt-and-pepper.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404645,
+                "name": "frying pan",
+                "localizedName": "frying pan",
+                "image": "pan.png"
+              }
+            ],
+            "length": {
+              "number": 2,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 2,
+            "step": "Combine salsa, chilies and cumin in a bowl.",
+            "ingredients": [
+              {
+                "id": 11819,
+                "name": "chili pepper",
+                "localizedName": "chili pepper",
+                "image": "red-chili.jpg"
+              },
+              {
+                "id": 1002014,
+                "name": "cumin",
+                "localizedName": "cumin",
+                "image": "ground-cumin.jpg"
+              },
+              {
+                "id": 6164,
+                "name": "salsa",
+                "localizedName": "salsa",
+                "image": "salsa.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404783,
+                "name": "bowl",
+                "localizedName": "bowl",
+                "image": "bowl.jpg"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "step": "Pour mixture over chops. Reduce heat to low, cover skillet and simmer chops 5 minutes or until cooked through.",
+            "ingredients": [
+
+            ],
+            "equipment": [
+              {
+                "id": 404645,
+                "name": "frying pan",
+                "localizedName": "frying pan",
+                "image": "pan.png"
+              }
+            ],
+            "length": {
+              "number": 5,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 4,
+            "step": "Mix cheeses in a bowl. Divide cheese mixture over chops, cover and cook 1 minute, just until cheese melts.Cauliflower salad:Cook cauliflower florets in a large pot of salted, boiling water until tender-crisp, 5 to 10 minutes.",
+            "ingredients": [
+              {
+                "id": 10011135,
+                "name": "cauliflower florets",
+                "localizedName": "cauliflower florets",
+                "image": "cauliflower.jpg"
+              },
+              {
+                "id": 11135,
+                "name": "cauliflower",
+                "localizedName": "cauliflower",
+                "image": "cauliflower.jpg"
+              },
+              {
+                "id": 1041009,
+                "name": "cheese",
+                "localizedName": "cheese",
+                "image": "cheddar-cheese.png"
+              },
+              {
+                "id": 14412,
+                "name": "water",
+                "localizedName": "water",
+                "image": "water.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404783,
+                "name": "bowl",
+                "localizedName": "bowl",
+                "image": "bowl.jpg"
+              },
+              {
+                "id": 404752,
+                "name": "pot",
+                "localizedName": "pot",
+                "image": "stock-pot.jpg"
+              }
+            ],
+            "length": {
+              "number": 6,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 5,
+            "step": "Drain and rinse under cold water.Or cook in MWC for 15 minutes.In a large bowl, combine mayonnaise, lemon juice and tarragon.",
+            "ingredients": [
+              {
+                "id": 9152,
+                "name": "lemon juice",
+                "localizedName": "lemon juice",
+                "image": "lemon-juice.jpg"
+              },
+              {
+                "id": 4025,
+                "name": "mayonnaise",
+                "localizedName": "mayonnaise",
+                "image": "mayonnaise.png"
+              },
+              {
+                "id": 2041,
+                "name": "tarragon",
+                "localizedName": "tarragon",
+                "image": "tarragon.jpg"
+              },
+              {
+                "id": 14412,
+                "name": "water",
+                "localizedName": "water",
+                "image": "water.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404783,
+                "name": "bowl",
+                "localizedName": "bowl",
+                "image": "bowl.jpg"
+              }
+            ],
+            "length": {
+              "number": 15,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 6,
+            "step": "Add cauliflower, jalapeno, salt and pepper.",
+            "ingredients": [
+              {
+                "id": 1102047,
+                "name": "salt and pepper",
+                "localizedName": "salt and pepper",
+                "image": "salt-and-pepper.jpg"
+              },
+              {
+                "id": 11135,
+                "name": "cauliflower",
+                "localizedName": "cauliflower",
+                "image": "cauliflower.jpg"
+              },
+              {
+                "id": 11979,
+                "name": "jalapeno pepper",
+                "localizedName": "jalapeno pepper",
+                "image": "jalapeno-pepper.png"
+              }
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 7,
+            "step": "Mix well until cauliflower florets are evenly coated with dressing. Chill at least 30 minutes for flavors to blend. (Can be made ahead. Store in an airtight container and refrigerate up to 24 hours.)",
+            "ingredients": [
+              {
+                "id": 10011135,
+                "name": "cauliflower florets",
+                "localizedName": "cauliflower florets",
+                "image": "cauliflower.jpg"
+              }
+            ],
+            "equipment": [
+
+            ],
+            "length": {
+              "number": 1470,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 8,
+            "step": "Sprinkle with parsley just before serving.",
+            "ingredients": [
+              {
+                "id": 11297,
+                "name": "parsley",
+                "localizedName": "parsley",
+                "image": "parsley.jpg"
+              }
+            ],
+            "equipment": [
+
+            ]
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/chili-chops-with-cauliflower-salad-638552"
+  },
+  {
+    "vegetarian": false,
+    "vegan": false,
+    "glutenFree": true,
+    "dairyFree": true,
+    "veryHealthy": true,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 7,
+    "gaps": "no",
+    "preparationMinutes": -1,
+    "cookingMinutes": -1,
+    "aggregateLikes": 2,
+    "healthScore": 73,
+    "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+    "license": "CC BY 3.0",
+    "sourceName": "Foodista",
+    "pricePerServing": 414.77,
+    "id": 644581,
+    "title": "Ginger Garlic Chili Salmon",
+    "readyInMinutes": 45,
+    "servings": 2,
+    "sourceUrl": "https://www.foodista.com/recipe/HY66L25Y/ginger-garlic-chili-salmon",
+    "image": "https://spoonacular.com/recipeImages/644581-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "Forget going out to eat or ordering takeout every time you crave American food. Try making Ginger Garlic Chili Salmon at home. For <b>$4.15 per serving</b>, you get a main course that serves 2. One serving contains <b>308 calories</b>, <b>35g of protein</b>, and <b>11g of fat</b>. This recipe is liked by 2 foodies and cooks. From preparation to the plate, this recipe takes about <b>about 45 minutes</b>. It can be enjoyed any time, but it is especially good for <b>The Super Bowl</b>. Head to the store and pick up chili sauce, brown sugar, soy sauce, and a few other things to make it today. It is brought to you by Foodista. It is a good option if you're following a <b>gluten free, dairy free, and pescatarian</b> diet. Taking all factors into account, this recipe <b>earns a spoonacular score of 87%</b>, which is excellent. Similar recipes include <a href=\"https://spoonacular.com/recipes/ginger-garlic-salmon-87251\">Ginger & Garlic Salmon</a>, <a href=\"https://spoonacular.com/recipes/ginger-garlic-chili-shrimp-631334\">Ginger, Garlic & Chili Shrimp</a>, and <a href=\"https://spoonacular.com/recipes/garlic-ginger-salmon-packets-426962\">Garlic-Ginger Salmon Packets</a>.",
+    "cuisines": [
+      "American"
+    ],
+    "dishTypes": [
+      "lunch",
+      "main course",
+      "main dish",
+      "dinner"
+    ],
+    "diets": [
+      "gluten free",
+      "dairy free",
+      "pescatarian"
+    ],
+    "occasions": [
+      "super bowl"
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "Season both sides of salmon fillets with salt and pepper. Chop green onions and put them aside. In a bowl, combine minced ginger, crushed garlic, brown sugar, rice vinegar, hot chili sauce, soy sauce and water. This is the sauce for simmering the salmon.",
+            "ingredients": [
+              {
+                "id": 1102047,
+                "name": "salt and pepper",
+                "localizedName": "salt and pepper",
+                "image": "salt-and-pepper.jpg"
+              },
+              {
+                "id": 10115076,
+                "name": "salmon fillets",
+                "localizedName": "salmon fillets",
+                "image": "salmon.png"
+              },
+              {
+                "id": 11291,
+                "name": "green onions",
+                "localizedName": "green onions",
+                "image": "spring-onions.jpg"
+              },
+              {
+                "id": 1022053,
+                "name": "rice vinegar",
+                "localizedName": "rice vinegar",
+                "image": "rice-vinegar.png"
+              },
+              {
+                "id": 19334,
+                "name": "brown sugar",
+                "localizedName": "brown sugar",
+                "image": "dark-brown-sugar.png"
+              },
+              {
+                "id": 6972,
+                "name": "chili sauce",
+                "localizedName": "chili sauce",
+                "image": "tomato-sauce-or-pasta-sauce.jpg"
+              },
+              {
+                "id": 16124,
+                "name": "soy sauce",
+                "localizedName": "soy sauce",
+                "image": "soy-sauce.jpg"
+              },
+              {
+                "id": 11215,
+                "name": "garlic",
+                "localizedName": "garlic",
+                "image": "garlic.png"
+              },
+              {
+                "id": 11216,
+                "name": "ginger",
+                "localizedName": "ginger",
+                "image": "ginger.png"
+              },
+              {
+                "id": 15076,
+                "name": "salmon",
+                "localizedName": "salmon",
+                "image": "salmon.png"
+              },
+              {
+                "id": 0,
+                "name": "sauce",
+                "localizedName": "sauce",
+                "image": ""
+              },
+              {
+                "id": 14412,
+                "name": "water",
+                "localizedName": "water",
+                "image": "water.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404783,
+                "name": "bowl",
+                "localizedName": "bowl",
+                "image": "bowl.jpg"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "step": "In a deep skillet, pan sear the salmon on medium high heat for 4-5 minutes or until it's almost half done on the side. Flip the salmon to the other side and sear for 2 minutes.",
+            "ingredients": [
+              {
+                "id": 15076,
+                "name": "salmon",
+                "localizedName": "salmon",
+                "image": "salmon.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404645,
+                "name": "frying pan",
+                "localizedName": "frying pan",
+                "image": "pan.png"
+              }
+            ],
+            "length": {
+              "number": 7,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 3,
+            "step": "Pour in the sauce when the salmon is still slightly raw in the middle, and let it simmer for 10 minutes on medium heat. When the sauce is reduced, add in the chopped green onions. Continuously scoop the sauce over the salmon for at least one minute to let the top side of the salmon absorb the sauce.",
+            "ingredients": [
+              {
+                "id": 11291,
+                "name": "green onions",
+                "localizedName": "green onions",
+                "image": "spring-onions.jpg"
+              },
+              {
+                "id": 15076,
+                "name": "salmon",
+                "localizedName": "salmon",
+                "image": "salmon.png"
+              },
+              {
+                "id": 0,
+                "name": "sauce",
+                "localizedName": "sauce",
+                "image": ""
+              }
+            ],
+            "equipment": [
+
+            ],
+            "length": {
+              "number": 11,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 4,
+            "step": "Remove the salmon carefully from the skillet and transfer to a dish. If the sauce is not reduced to the desired consistency, leave it in the skillet and let it continue to reduce.",
+            "ingredients": [
+              {
+                "id": 15076,
+                "name": "salmon",
+                "localizedName": "salmon",
+                "image": "salmon.png"
+              },
+              {
+                "id": 0,
+                "name": "sauce",
+                "localizedName": "sauce",
+                "image": ""
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404645,
+                "name": "frying pan",
+                "localizedName": "frying pan",
+                "image": "pan.png"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "step": "Pour the sauce over the salmon and serve.",
+            "ingredients": [
+              {
+                "id": 15076,
+                "name": "salmon",
+                "localizedName": "salmon",
+                "image": "salmon.png"
+              },
+              {
+                "id": 0,
+                "name": "sauce",
+                "localizedName": "sauce",
+                "image": ""
+              }
+            ],
+            "equipment": [
+
+            ]
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/ginger-garlic-chili-salmon-644581"
+  }
+]
