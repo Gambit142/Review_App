@@ -1,0 +1,869 @@
+[
+  {
+    "vegetarian": false,
+    "vegan": false,
+    "glutenFree": true,
+    "dairyFree": true,
+    "veryHealthy": true,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 32,
+    "gaps": "no",
+    "preparationMinutes": -1,
+    "cookingMinutes": -1,
+    "aggregateLikes": 124,
+    "healthScore": 100,
+    "creditsText": "afrolems.com",
+    "sourceName": "afrolems.com",
+    "pricePerServing": 355.78,
+    "id": 716268,
+    "title": "African Chicken Peanut Stew",
+    "readyInMinutes": 45,
+    "servings": 1,
+    "sourceUrl": "http://www.afrolems.com/2014/03/18/african-chicken-peanut-stew-recipe/",
+    "image": "https://spoonacular.com/recipeImages/716268-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "Need a <b>gluten free and dairy free main course</b>? African Chicken Peanut Stew could be a tremendous recipe to try. This recipe makes 1 servings with <b>1377 calories</b>, <b>75g of protein</b>, and <b>102g of fat</b> each. For <b>$3.87 per serving</b>, this recipe <b>covers 62%</b> of your daily requirements of vitamins and minerals. It can be enjoyed any time, but it is especially good for <b>Autumn</b>. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. 124 people have tried and liked this recipe. Head to the store and pick up bell peppers, tomato, pepper, and a few other things to make it today. To use up the tomato you could follow this main course with the <a href=\"https://spoonacular.com/recipes/pink-peony-popcorn-balls-129348\">Pink Peony Popcorn Balls</a> as a dessert. All things considered, we decided this recipe <b>deserves a spoonacular score of 99%</b>. This score is super. Try <a href=\"https://spoonacular.com/recipes/african-chicken-peanut-stew-245461\">African Chicken Peanut Stew</a>, <a href=\"https://spoonacular.com/recipes/west-african-peanut-chicken-stew-163315\">West African Peanut-Chicken Stew</a>, and <a href=\"https://spoonacular.com/recipes/one-pot-african-peanut-stew-854978\">One-Pot African Peanut Stew</a> for similar recipes.",
+    "cuisines": [
+      "African"
+    ],
+    "dishTypes": [
+      "lunch",
+      "main course",
+      "main dish",
+      "dinner"
+    ],
+    "diets": [
+      "gluten free",
+      "dairy free"
+    ],
+    "occasions": [
+      "fall",
+      "winter"
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "Season and Boil the Chicken for 10 minutes with salt, pepper, seasoning, a handful of onions.Once the chicken is ready, in the same stock, Boil the chopped sweet potatoes till its almost cooked. Save the stock in a separate Bowl and the chicken and potatoes in a separate Bowl as well.In a pot, heat up one cooking spoon of oil and fry the chicken till it Browns. Take it out and heat up the other 1.5 cooking spoons of oil and fry the onions, tomatoes Both chopped and Blended, ginger and garlic.",
+            "ingredients": [
+              {
+                "id": 11507,
+                "name": "sweet potato",
+                "localizedName": "sweet potato",
+                "image": "sweet-potato.png"
+              },
+              {
+                "id": 1042027,
+                "name": "seasoning",
+                "localizedName": "seasoning",
+                "image": "seasoning.png"
+              },
+              {
+                "id": 11352,
+                "name": "potato",
+                "localizedName": "potato",
+                "image": "potatoes-yukon-gold.png"
+              },
+              {
+                "id": 11529,
+                "name": "tomato",
+                "localizedName": "tomato",
+                "image": "tomato.png"
+              },
+              {
+                "id": 5006,
+                "name": "whole chicken",
+                "localizedName": "whole chicken",
+                "image": "whole-chicken.jpg"
+              },
+              {
+                "id": 11215,
+                "name": "garlic",
+                "localizedName": "garlic",
+                "image": "garlic.png"
+              },
+              {
+                "id": 11216,
+                "name": "ginger",
+                "localizedName": "ginger",
+                "image": "ginger.png"
+              },
+              {
+                "id": 11282,
+                "name": "onion",
+                "localizedName": "onion",
+                "image": "brown-onion.png"
+              },
+              {
+                "id": 1002030,
+                "name": "pepper",
+                "localizedName": "pepper",
+                "image": "pepper.jpg"
+              },
+              {
+                "id": 1006615,
+                "name": "stock",
+                "localizedName": "stock",
+                "image": "chicken-broth.png"
+              },
+              {
+                "id": 2047,
+                "name": "salt",
+                "localizedName": "salt",
+                "image": "salt.jpg"
+              },
+              {
+                "id": 4582,
+                "name": "cooking oil",
+                "localizedName": "cooking oil",
+                "image": "vegetable-oil.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404783,
+                "name": "bowl",
+                "localizedName": "bowl",
+                "image": "bowl.jpg"
+              },
+              {
+                "id": 404752,
+                "name": "pot",
+                "localizedName": "pot",
+                "image": "stock-pot.jpg"
+              }
+            ],
+            "length": {
+              "number": 10,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 2,
+            "step": "Add your seasoning, curry, thyme, parsley, salt and pepper to the pot.",
+            "ingredients": [
+              {
+                "id": 1102047,
+                "name": "salt and pepper",
+                "localizedName": "salt and pepper",
+                "image": "salt-and-pepper.jpg"
+              },
+              {
+                "id": 1042027,
+                "name": "seasoning",
+                "localizedName": "seasoning",
+                "image": "seasoning.png"
+              },
+              {
+                "id": 11297,
+                "name": "parsley",
+                "localizedName": "parsley",
+                "image": "parsley.jpg"
+              },
+              {
+                "id": 2015,
+                "name": "curry powder",
+                "localizedName": "curry powder",
+                "image": "curry-powder.jpg"
+              },
+              {
+                "id": 2049,
+                "name": "thyme",
+                "localizedName": "thyme",
+                "image": "thyme.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404752,
+                "name": "pot",
+                "localizedName": "pot",
+                "image": "stock-pot.jpg"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "step": "Pour in your stock, chicken and potatoes to cook further.Stir in your peanut Butter and allow to cook for 10 minutes on low heat.If your sauce gets too thick, add a little water to it.",
+            "ingredients": [
+              {
+                "id": 16098,
+                "name": "peanut butter",
+                "localizedName": "peanut butter",
+                "image": "peanut-butter.png"
+              },
+              {
+                "id": 11352,
+                "name": "potato",
+                "localizedName": "potato",
+                "image": "potatoes-yukon-gold.png"
+              },
+              {
+                "id": 5006,
+                "name": "whole chicken",
+                "localizedName": "whole chicken",
+                "image": "whole-chicken.jpg"
+              },
+              {
+                "id": 0,
+                "name": "sauce",
+                "localizedName": "sauce",
+                "image": ""
+              },
+              {
+                "id": 1006615,
+                "name": "stock",
+                "localizedName": "stock",
+                "image": "chicken-broth.png"
+              },
+              {
+                "id": 14412,
+                "name": "water",
+                "localizedName": "water",
+                "image": "water.png"
+              }
+            ],
+            "equipment": [
+
+            ],
+            "length": {
+              "number": 10,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 4,
+            "step": "Serve with white rice or more sweet potatoes.You could also garnish the dish with Bell peppers.   ",
+            "ingredients": [
+              {
+                "id": 11507,
+                "name": "sweet potato",
+                "localizedName": "sweet potato",
+                "image": "sweet-potato.png"
+              },
+              {
+                "id": 10211821,
+                "name": "bell pepper",
+                "localizedName": "bell pepper",
+                "image": "bell-pepper-orange.png"
+              },
+              {
+                "id": 10220444,
+                "name": "white rice",
+                "localizedName": "white rice",
+                "image": "uncooked-white-rice.png"
+              }
+            ],
+            "equipment": [
+
+            ]
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/african-chicken-peanut-stew-716268"
+  },
+  {
+    "vegetarian": true,
+    "vegan": true,
+    "glutenFree": true,
+    "dairyFree": true,
+    "veryHealthy": true,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 4,
+    "gaps": "no",
+    "preparationMinutes": -1,
+    "cookingMinutes": -1,
+    "aggregateLikes": 1,
+    "healthScore": 58,
+    "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+    "license": "CC BY 3.0",
+    "sourceName": "Foodista",
+    "pricePerServing": 42.94,
+    "id": 632003,
+    "title": "African Bean Soup",
+    "readyInMinutes": 45,
+    "servings": 4,
+    "sourceUrl": "http://www.foodista.com/recipe/5WXW6JDS/african-bean-soup",
+    "image": "https://spoonacular.com/recipeImages/632003-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "African Bean Soup might be just the soup you are searching for. This gluten free and vegan recipe serves 4 and costs <b>43 cents per serving</b>. One serving contains <b>188 calories</b>, <b>10g of protein</b>, and <b>5g of fat</b>. It can be enjoyed any time, but it is especially good for <b>Autumn</b>. Head to the store and pick up black-eyed peas, carrots, pepper, and a few other things to make it today. 1 person has made this recipe and would make it again. This recipe is typical of African cuisine. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 89%</b>. This score is tremendous. Similar recipes include <a href=\"https://spoonacular.com/recipes/african-pumpkin-and-bean-soup-618715\">African Pumpkin and Bean Soup</a>, <a href=\"https://spoonacular.com/recipes/african-inspired-sweet-potato-and-black-bean-burgers-158200\">African-Inspired Sweet Potato and Black Bean Burgers</a>, and <a href=\"https://spoonacular.com/recipes/african-peanut-and-yam-soup-46362\">African Peanut And Yam Soup</a>.",
+    "cuisines": [
+      "African"
+    ],
+    "dishTypes": [
+      "soup"
+    ],
+    "diets": [
+      "gluten free",
+      "dairy free",
+      "lacto ovo vegetarian",
+      "vegan"
+    ],
+    "occasions": [
+      "fall",
+      "winter"
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "Saute onions in large pot until soft.",
+            "ingredients": [
+              {
+                "id": 11282,
+                "name": "onion",
+                "localizedName": "onion",
+                "image": "brown-onion.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404752,
+                "name": "pot",
+                "localizedName": "pot",
+                "image": "stock-pot.jpg"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "step": "Add all ingredients except for peanut butter and simmer for 1 1/2 hours. Stir a spoonful of peanut butter into each serving.",
+            "ingredients": [
+              {
+                "id": 16098,
+                "name": "peanut butter",
+                "localizedName": "peanut butter",
+                "image": "peanut-butter.png"
+              }
+            ],
+            "equipment": [
+
+            ],
+            "length": {
+              "number": 120,
+              "unit": "minutes"
+            }
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/african-bean-soup-632003"
+  },
+  {
+    "vegetarian": true,
+    "vegan": true,
+    "glutenFree": true,
+    "dairyFree": true,
+    "veryHealthy": false,
+    "cheap": false,
+    "veryPopular": true,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 13,
+    "gaps": "no",
+    "preparationMinutes": -1,
+    "cookingMinutes": -1,
+    "aggregateLikes": 347,
+    "healthScore": 20,
+    "creditsText": "Afrolems",
+    "license": "CC BY 4.0",
+    "sourceName": "Afrolems",
+    "pricePerServing": 122.98,
+    "id": 716298,
+    "title": "How to Make Party Jollof Rice",
+    "readyInMinutes": 45,
+    "servings": 3,
+    "sourceUrl": "http://www.afrolems.com/2012/11/23/how-to-make-party-jollof-rice/",
+    "image": "https://spoonacular.com/recipeImages/716298-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "The recipe How to Make Party Jollof Rice is ready <b>in about 45 minutes</b> and is definitely an amazing <b>gluten free and vegan</b> option for lovers of African food. For <b>$1.35 per serving</b>, this recipe <b>covers 20%</b> of your daily requirements of vitamins and minerals. This recipe makes 3 servings with <b>528 calories</b>, <b>12g of protein</b>, and <b>2g of fat</b> each. Many people made this recipe, and 347 would say it hit the spot. If you have bay leaves, roma tomatoes, salt, and a few other ingredients on hand, you can make it. All things considered, we decided this recipe <b>deserves a spoonacular score of 93%</b>. This score is outstanding. Try <a href=\"https://spoonacular.com/recipes/jollof-rice-with-chicken-from-ghana-728651\">Jollof Rice with Chicken from Ghana</a>, <a href=\"https://spoonacular.com/recipes/chex-party-mix-it-is-easy-to-make-599956\">Chex Party Mix – it is easy to make</a>, and <a href=\"https://spoonacular.com/recipes/make-ahead-party-mashed-potatoes-329849\">Make-Ahead Party Mashed Potatoes</a> for similar recipes.",
+    "cuisines": [
+      "African"
+    ],
+    "dishTypes": [
+      "side dish"
+    ],
+    "diets": [
+      "gluten free",
+      "dairy free",
+      "lacto ovo vegetarian",
+      "vegan"
+    ],
+    "occasions": [
+
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "*Wash rice by rubbing the rice between your palms in a bowl of water and draining the water till clear.Blend tomatoes, pepper and garlic and bring to boil till the excess water dries up.Chop Onions",
+            "ingredients": [
+              {
+                "id": 11529,
+                "name": "tomato",
+                "localizedName": "tomato",
+                "image": "tomato.png"
+              },
+              {
+                "id": 11215,
+                "name": "garlic",
+                "localizedName": "garlic",
+                "image": "garlic.png"
+              },
+              {
+                "id": 11282,
+                "name": "onion",
+                "localizedName": "onion",
+                "image": "brown-onion.png"
+              },
+              {
+                "id": 1002030,
+                "name": "pepper",
+                "localizedName": "pepper",
+                "image": "pepper.jpg"
+              },
+              {
+                "id": 14412,
+                "name": "water",
+                "localizedName": "water",
+                "image": "water.png"
+              },
+              {
+                "id": 20444,
+                "name": "rice",
+                "localizedName": "rice",
+                "image": "uncooked-white-rice.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404783,
+                "name": "bowl",
+                "localizedName": "bowl",
+                "image": "bowl.jpg"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "step": "Heat up vegetable oil and pour in chopped onions and fry.",
+            "ingredients": [
+              {
+                "id": 4669,
+                "name": "vegetable oil",
+                "localizedName": "vegetable oil",
+                "image": "vegetable-oil.jpg"
+              },
+              {
+                "id": 11282,
+                "name": "onion",
+                "localizedName": "onion",
+                "image": "brown-onion.png"
+              }
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 3,
+            "step": "Pour in the can of tomato puree and fry.",
+            "ingredients": [
+              {
+                "id": 11547,
+                "name": "tomato puree",
+                "localizedName": "tomato puree",
+                "image": "tomato-paste.jpg"
+              }
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 4,
+            "step": "Pour in blended tomato and pepper mix into the pot and stir in.",
+            "ingredients": [
+              {
+                "id": 1002030,
+                "name": "pepper",
+                "localizedName": "pepper",
+                "image": "pepper.jpg"
+              },
+              {
+                "id": 11529,
+                "name": "tomato",
+                "localizedName": "tomato",
+                "image": "tomato.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404752,
+                "name": "pot",
+                "localizedName": "pot",
+                "image": "stock-pot.jpg"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "step": "Pour in salt, dry pepper, curry, thyme, bay leaves and maggi cubes.Allow it to simmer on low heat for 3 minutes.Reduce the heat to the lowest level and pour in the washed rice.",
+            "ingredients": [
+              {
+                "id": 2004,
+                "name": "bay leaves",
+                "localizedName": "bay leaves",
+                "image": "bay-leaves.jpg"
+              },
+              {
+                "id": 1002030,
+                "name": "pepper",
+                "localizedName": "pepper",
+                "image": "pepper.jpg"
+              },
+              {
+                "id": 2015,
+                "name": "curry powder",
+                "localizedName": "curry powder",
+                "image": "curry-powder.jpg"
+              },
+              {
+                "id": 2049,
+                "name": "thyme",
+                "localizedName": "thyme",
+                "image": "thyme.jpg"
+              },
+              {
+                "id": 20444,
+                "name": "rice",
+                "localizedName": "rice",
+                "image": "uncooked-white-rice.png"
+              },
+              {
+                "id": 2047,
+                "name": "salt",
+                "localizedName": "salt",
+                "image": "salt.jpg"
+              }
+            ],
+            "equipment": [
+
+            ],
+            "length": {
+              "number": 3,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 6,
+            "step": "Pour in the water and stir and leave on low heat for 20 minutes or till the rice is soft.Tip: To get the party rice flavor, increase the heat on the rice and burn the bottom of the pot with the pot covered and stir the rice after 3 minutes of burning.Stir the rice and serve with any protein of your choice.  // <![CDATA[(adsbygoogle = window.adsbygoogle || []).push({});// ]]&gt;A video I shared on Instagram recently",
+            "ingredients": [
+              {
+                "id": 14412,
+                "name": "water",
+                "localizedName": "water",
+                "image": "water.png"
+              },
+              {
+                "id": 20444,
+                "name": "rice",
+                "localizedName": "rice",
+                "image": "uncooked-white-rice.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404752,
+                "name": "pot",
+                "localizedName": "pot",
+                "image": "stock-pot.jpg"
+              }
+            ],
+            "length": {
+              "number": 23,
+              "unit": "minutes"
+            }
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/how-to-make-party-jollof-rice-716298"
+  },
+  {
+    "vegetarian": true,
+    "vegan": true,
+    "glutenFree": false,
+    "dairyFree": true,
+    "veryHealthy": false,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 10,
+    "gaps": "no",
+    "preparationMinutes": -1,
+    "cookingMinutes": -1,
+    "aggregateLikes": 1,
+    "healthScore": 23,
+    "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+    "license": "CC BY 3.0",
+    "sourceName": "Foodista",
+    "pricePerServing": 159.03,
+    "id": 653275,
+    "title": "North African Chickpea Soup",
+    "readyInMinutes": 45,
+    "servings": 4,
+    "sourceUrl": "https://www.foodista.com/recipe/FW478NZC/north-african-chickpea-soup",
+    "image": "https://spoonacular.com/recipeImages/653275-312x231.jpg",
+    "imageType": "jpg",
+    "summary": "North African Chickpea Soup might be a good recipe to expand your soup collection. This recipe serves 4. One serving contains <b>361 calories</b>, <b>9g of protein</b>, and <b>6g of fat</b>. For <b>$1.59 per serving</b>, this recipe <b>covers 21%</b> of your daily requirements of vitamins and minerals. It can be enjoyed any time, but it is especially good for <b>Autumn</b>. It is a good option if you're following a <b>dairy free, lacto ovo vegetarian, and vegan</b> diet. 1 person has tried and liked this recipe. A mixture of chickpeas, water, spinach leaves, and a handful of other ingredients are all it takes to make this recipe so yummy. Not a lot of people really liked this African dish. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>approximately 45 minutes</b>. Overall, this recipe earns a <b>pretty good spoonacular score of 62%</b>. Similar recipes are <a href=\"https://spoonacular.com/recipes/north-african-chickpea-and-kale-soup-158497\">North African Chickpean and Kale Soup</a>, <a href=\"https://spoonacular.com/recipes/north-african-soup-vegetarian-101246\">North African Soup (Vegetarian)</a>, and <a href=\"https://spoonacular.com/recipes/north-african-fish-soup-95183\">North African Fish Soup</a>.",
+    "cuisines": [
+      "African"
+    ],
+    "dishTypes": [
+      "soup"
+    ],
+    "diets": [
+      "dairy free",
+      "lacto ovo vegetarian",
+      "vegan"
+    ],
+    "occasions": [
+      "fall",
+      "winter"
+    ],
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "In a large soup pot add the oil, onions and celery.  Cook over medium low heat until translucent.",
+            "ingredients": [
+              {
+                "id": 11143,
+                "name": "celery",
+                "localizedName": "celery",
+                "image": "celery.jpg"
+              },
+              {
+                "id": 11282,
+                "name": "onion",
+                "localizedName": "onion",
+                "image": "brown-onion.png"
+              },
+              {
+                "id": 0,
+                "name": "soup",
+                "localizedName": "soup",
+                "image": ""
+              },
+              {
+                "id": 4582,
+                "name": "cooking oil",
+                "localizedName": "cooking oil",
+                "image": "vegetable-oil.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404752,
+                "name": "pot",
+                "localizedName": "pot",
+                "image": "stock-pot.jpg"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "step": "Add the garlic and saute until fragrant.",
+            "ingredients": [
+              {
+                "id": 11215,
+                "name": "garlic",
+                "localizedName": "garlic",
+                "image": "garlic.png"
+              }
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 3,
+            "step": "Add the tomato paste and harissa.  Cook a minute then add the water or stock slowly while stirring to combine the flavor paste in the pot with the liquids.  Throw in the chickpeas and bring to a boil.  As soon as it reaches a boil, reduce heat to a simmer.",
+            "ingredients": [
+              {
+                "id": 11887,
+                "name": "tomato paste",
+                "localizedName": "tomato paste",
+                "image": "tomato-paste.jpg"
+              },
+              {
+                "id": 16057,
+                "name": "chickpeas",
+                "localizedName": "chickpeas",
+                "image": "chickpeas.png"
+              },
+              {
+                "id": 1006972,
+                "name": "harissa",
+                "localizedName": "harissa",
+                "image": "harissa-paste.jpg"
+              },
+              {
+                "id": 1006615,
+                "name": "stock",
+                "localizedName": "stock",
+                "image": "chicken-broth.png"
+              },
+              {
+                "id": 14412,
+                "name": "water",
+                "localizedName": "water",
+                "image": "water.png"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404752,
+                "name": "pot",
+                "localizedName": "pot",
+                "image": "stock-pot.jpg"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "step": "Add the pasta and cook according to the package directions.  My suggestion is that if you are using fresh pasta, give it a rinse under tap water to remove the starch before adding it to the soup.  It might make the broth cloudy.  If using rice noodles add them right before serving to prevent overcooked mushy noodles.  To cook rice noodles place them in a shallow dish and cover with hot water for 10-15 minutes to soften.",
+            "ingredients": [
+              {
+                "id": 20133,
+                "name": "rice noodles",
+                "localizedName": "rice noodles",
+                "image": "dried-rice-noodles.jpg"
+              },
+              {
+                "id": 20093,
+                "name": "fresh pasta",
+                "localizedName": "fresh pasta",
+                "image": "fusilli.jpg"
+              },
+              {
+                "id": 20420,
+                "name": "pasta",
+                "localizedName": "pasta",
+                "image": "fusilli.jpg"
+              },
+              {
+                "id": 10020027,
+                "name": "starch",
+                "localizedName": "starch",
+                "image": ""
+              },
+              {
+                "id": 1006615,
+                "name": "broth",
+                "localizedName": "broth",
+                "image": "chicken-broth.png"
+              },
+              {
+                "id": 14412,
+                "name": "water",
+                "localizedName": "water",
+                "image": "water.png"
+              },
+              {
+                "id": 0,
+                "name": "soup",
+                "localizedName": "soup",
+                "image": ""
+              }
+            ],
+            "equipment": [
+
+            ],
+            "length": {
+              "number": 15,
+              "unit": "minutes"
+            }
+          },
+          {
+            "number": 5,
+            "step": "Just before serving taste for seasoning, adjust to your taste.",
+            "ingredients": [
+              {
+                "id": 1042027,
+                "name": "seasoning",
+                "localizedName": "seasoning",
+                "image": "seasoning.png"
+              }
+            ],
+            "equipment": [
+
+            ]
+          },
+          {
+            "number": 6,
+            "step": "Adding too much salt earlier on could make things too salty because some of the ingredients can bring a lot of salt to the pot.  Then add the spinach, it will only take a minute to shrink into nearly nothing, but it is sure a powerhouse vegetable that amps up the nutrition in this meal quickly and without fuss.  A squeeze of fresh lemon juice after it has been taken off the heat will add a nice bright flavor to perk up those dreary dark days of winter.  Enjoy with some crusty bread.  A meal you can feel good about, filling yet light.",
+            "ingredients": [
+              {
+                "id": 10018029,
+                "name": "crusty bread",
+                "localizedName": "crusty bread",
+                "image": "crusty-bread.jpg"
+              },
+              {
+                "id": 9152,
+                "name": "lemon juice",
+                "localizedName": "lemon juice",
+                "image": "lemon-juice.jpg"
+              },
+              {
+                "id": 11583,
+                "name": "vegetable",
+                "localizedName": "vegetable",
+                "image": "mixed-vegetables.png"
+              },
+              {
+                "id": 10011457,
+                "name": "spinach",
+                "localizedName": "spinach",
+                "image": "spinach.jpg"
+              },
+              {
+                "id": 2047,
+                "name": "salt",
+                "localizedName": "salt",
+                "image": "salt.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404752,
+                "name": "pot",
+                "localizedName": "pot",
+                "image": "stock-pot.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "spoonacularSourceUrl": "https://spoonacular.com/north-african-chickpea-soup-653275"
+  }
+]
