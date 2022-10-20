@@ -3,35 +3,38 @@ task :foods => :environment do
 
   # Fetch foods from spoonacular API
 
-  def fetch_food_function(parameters)
+  def fetch_food_function(cuisine)
     spoonacular_api_key = ENV['SPOONACULAR_API_KEY']
     base_url = 'https://api.spoonacular.com/recipes/complexSearch?'
     base_url += "apiKey=#{spoonacular_api_key}"
+    parameters = {
+      addRecipeInformation: true,
+      cuisine: cuisine,
+    }
     parameters.each do |key, value|
       base_url += "&#{key}=#{value}"
     end
     response = HTTParty.get(base_url)
     data = JSON.parse response.body
+    data = data['results']
   end
 
-  first_parameters = {
-    addRecipeInformation: true,
-    type: 'breakfast'
-  }
+  # Save food data to JSON file
 
-  second_parameters = {
-    addRecipeInformation: true,
-    type: 'main course'
-  }
+  def create_food_attributes(cuisine)
+    data = fetch_food_function(cuisine)
+    data.map do |food|
+      {
+        name: food['title'],
+        
+      }
 
-  third_parameters = {
-    addRecipeInformation: true,
-    type: 'dessert',
-  }
+    end
+  end
 
-  food_data1 = fetch_food_function(first_parameters)['results']
-  food_data2 = fetch_food_function(second_parameters)['results']
-  food_data3 = fetch_food_function(third_parameters)['results']
+  food_data1 = fetch_food_function('African')
+  food_data2 = fetch_food_function('American')
+  food_data3 = fetch_food_function('Caribbean')
 
   def food_json_file(json_file, food_data)
     File.open("json/#{json_file}.json","w") do |f|
@@ -39,7 +42,7 @@ task :foods => :environment do
     end
   end
 
-  food_json_file('food_breakfast', food_data1)
-  food_json_file('food_main_course', food_data2)
-  food_json_file('food_dessert', food_data3)
+  food_json_file('African_dishes', food_data1)
+  food_json_file('American_dishes', food_data2)
+  food_json_file('Caribbean_dishes', food_data3)
 end
