@@ -24,25 +24,47 @@ task :foods => :environment do
   def create_food_attributes(cuisine)
     data = fetch_food_function(cuisine)
     data.map do |food|
+      steps = []
+      if food['analyzedInstructions'].length > 0
+        steps = food['analyzedInstructions'][0]['steps'].map do |step|
+          step['step']
+        end
+      end
+      ingredients = []
+      if food['analyzedInstructions'].length > 0
+        ingredients = food['analyzedInstructions'][0]['steps'].map do |step|
+          step['ingredients'].map do |ingredient|
+            {
+              name: ingredient['name'].capitalize,
+              image: "https://spoonacular.com/cdn/ingredients_100x100/#{ingredient['image']}"
+            }
+          end.compact
+        end.flatten if food['analyzedInstructions']
+      end
       {
         name: food['title'],
-        
+        food_details: food['summary'],
+        image_url: food['image'],
+        steps: steps,
+        ingredients: ingredients
       }
-
     end
   end
 
-  food_data1 = fetch_food_function('African')
-  food_data2 = fetch_food_function('American')
-  food_data3 = fetch_food_function('Caribbean')
-
-  def food_json_file(json_file, food_data)
-    File.open("json/#{json_file}.json","w") do |f|
-      f.write(JSON.pretty_generate(food_data))
+  def save_food_to_json(cuisine, file_name)
+    data = create_food_attributes(cuisine)
+    Dir.mkdir('json/cuisines') unless File.exists?('json/cuisines')
+    return if File.exists?("json/cuisines/#{file_name}.json")
+    File.open("json/cuisines/#{file_name}.json","w") do |f|
+      f.write(JSON.pretty_generate(data))
     end
   end
 
-  food_json_file('African_dishes', food_data1)
-  food_json_file('American_dishes', food_data2)
-  food_json_file('Caribbean_dishes', food_data3)
+  # Create JSON file with food data
+  save_food_to_json('African', 'african_dishes')
+  save_food_to_json('American', 'american_dishes')
+  save_food_to_json('Caribbean', 'caribbean_dishes')
+  # save_food_to_json('African', 'african_dishes')
+  # save_food_to_json('African', 'african_dishes')
+  # save_food_to_json('African', 'african_dishes')
 end

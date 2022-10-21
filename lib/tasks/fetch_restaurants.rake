@@ -49,9 +49,9 @@ task :restaurants => :environment do
   # Create JSON file with restaurants data
 
   def create_json_file(file_name, data)
-    Dir.mkdir('json') unless File.exists?('json')
-    return if File.exists?("json/#{file_name}.json")
-    File.open("json/#{file_name}.json","w") do |f|
+    Dir.mkdir('json/restaurants') unless File.exists?('json/restaurants')
+    return if File.exists?("json/restaurants/#{file_name}.json")
+    File.open("json/restaurants/#{file_name}.json","w") do |f|
       f.write(JSON.pretty_generate(data))
     end
   end
