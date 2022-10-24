@@ -1,6 +1,13 @@
 Rails.application.routes.draw do
-  resources :foods
-  resources :restaurants
+  resources :reviews
+
+  # Route for Foods and Restaurants
+  defaults format: :json do
+    resources :Restaurants, only: [:index, :show] do
+      resources :foods, only: [:index, :show]
+    end
+  end
+
   post "/signup", to: "users#create", format: 'json'
   post "/login", to: "sessions#create", format: 'json'
   get "/authorized", to: "sessions#show", format: 'json'
