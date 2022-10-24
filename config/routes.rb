@@ -8,9 +8,16 @@ Rails.application.routes.draw do
     end
   end
 
+  # Routes for authentication
   post "/signup", to: "users#create", format: 'json'
   post "/login", to: "sessions#create", format: 'json'
-  get "/authorized", to: "sessions#show", format: 'json'
+  get "/authenticated", to: "sessions#show", format: 'json'
+
+  # Routes for Different Reviews
+  get "/foods/:id/reviews", to: "reviews#food_reviews", format: 'json'
+  get "/restaurants/:id/reviews", to: "reviews#restaurant_reviews", format: 'json'
+  get "/users/:id/reviews", to: "reviews#user_reviews", format: 'json'
+
   root "root#index"
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 
