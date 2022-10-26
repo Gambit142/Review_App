@@ -38,6 +38,8 @@ gem 'dotenv-rails'
 gem 'httparty'
 
 gem 'countries', :require => 'countries/global'
+
+gem 'oj'
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
