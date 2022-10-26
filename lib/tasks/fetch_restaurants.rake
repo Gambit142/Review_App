@@ -34,7 +34,7 @@ task :restaurants => :environment do
         {
           name: hotel['name']['content'],
           description: hotel['description']['content'],
-          countryCode: code,
+          country_code: code,
           country: country,
           continent: continent,
           address: "#{hotel['address']['number']} #{hotel['address']['street']}, #{hotel['city']['content'].capitalize}",
@@ -43,7 +43,7 @@ task :restaurants => :environment do
           image: image ? "http://photos.hotelbeds.com/giata/#{image['path']}" : nil
         }
       end
-    end.flatten
+    end.flatten.compact
   end
 
   # Create JSON file with restaurants data

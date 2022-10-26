@@ -2,7 +2,7 @@
   {
     "name": "Helnan Palestine",
     "description": "This 5 star hotel is located within the city of Alexandria and was established in 1964. It is a short drive away from the Ahly Bank and the nearest station is Sidi Gaber Station. The Hotel has 4 restaurants, a bar, a conference room, a coffee shop and an outdoor swimming pool. All 209 rooms are equipped with minibar, hairdryer, safe and air conditioning.",
-    "countryCode": "EG",
+    "country_code": "EG",
     "country": "Egypt",
     "continent": "Africa",
     "address": " Kasr El Montazah, Alexandria-egy",
@@ -13,7 +13,7 @@
   {
     "name": "Sheraton Montazah",
     "description": "The Sheraton Montazah Hotel is ideally located in Alexandria with its magnificent beaches, archeological and cultural attractions. The hotel is located 15 Km from Nozha Airport and 220 Km from Cairo. It overlooks King's Farouk Palace and gardens on one side and the bright blue waters of the Mediterranean Sea on the other . It's your perfect getaway to relax and feel at home. Guests can enjoy amazing views of the Mediterranean and the Montazah Park in a brightly decorated guest room. They may gather with friends or family for a delicious meal in one of the restaurants .They may also head to our outdoor pool overlooking the sea or just relax by our private sandy beach under the warm sun. Rates are not valid for nationals or passport holders of the following countries; Algeria, Bahrain, Iraq, Jordan, Kuwait, Lebanon, Libya, Morocco, Oman, Palestine, Qatar, Saudi Arabia, Sudan, Syria, Tunisia, UAE, and Yemen.",
-    "countryCode": "EG",
+    "country_code": "EG",
     "country": "Egypt",
     "continent": "Africa",
     "address": " Corniche Rd. Montazah Alexandria, Alexandria-egy",
@@ -24,7 +24,7 @@
   {
     "name": "Hilton Alexandria Green Plaza",
     "description": "The following services and amenities are available, but with **reduced service**: Executive Lounge, Breakfast, On-site Restaurant(s), Pool, Room Service.The following services and amenities are currently **not available**: Spa.Shop until you drop at the Hilton Alexandria Green Plaza hotel in the Green Plaza Mall, with 370 shops, a cinema and a Fun Castle. Do business in the largest conference room in Alexandria, just 10 minutes from the airport. Relax later in the pool, or sample the 6 bars and restaurants.\n\nTen minutes' drive from the airport, the Hilton Alexandria Green Plaza hotel has an Executive Lounge, a business center and 11 meeting rooms for 2-3000 people. The Art Deco-style rooms at the Hilton Alexandria Green Plaza hotel have plenty of space. Book an Executive Room or Suite for Executive Lounge access.\n\nWork out in the health club and pool or go horse riding at the hotel's ranch, 30 minutes' away. Visit Alexandria attractions, such as Alexandria Library or Pompey's Pillar.",
-    "countryCode": "EG",
+    "country_code": "EG",
     "country": "Egypt",
     "continent": "Africa",
     "address": "0 14th of May Bridge Road - Smouha, Alexandria",
@@ -35,7 +35,7 @@
   {
     "name": "Movenpick Resort Aswan",
     "description": "The Mövenpick Resort Aswan offers a unique location on Elephantine Island. This resort hotel delights its guests with a spectacular view over the river Nile from the 404 elegant rooms, suites and villas he owns. It is within walking distance of cultural attractions of the city of Aswan. Among its outstanding amenities Orangrie restaurant (offering international cuisine), a large swimming pool and meeting room with natural light and Wi-Fi Internet. This hotel offers a perfect balance between business and pleasure. *** Customers with Egyptian nationality who stay in the hotel sharing a room must provide a marriage certificate",
-    "countryCode": "EG",
+    "country_code": "EG",
     "country": "Egypt",
     "continent": "Africa",
     "address": " Elephantine Island Po Box 62, Aswan",
@@ -46,7 +46,7 @@
   {
     "name": "Sofitel Legend Old Cataract Aswan",
     "description": "Step into the legendary site where King Fouad once entertained and Agatha Christie sipped cocktails: the 5-star Sofitel Legend Old Cataract Aswan Hotel. In the Nubian Desert on the banks of the Nile, opposite Elephantine Island, the majestic hotel sits on a pink granite cliff overlooking the world's longest river. This ravishing hotel with its legendary guest list of royals and dignitaries is both ideal for romantic getaways, and a perfect venue for small summits and corporate meetings.",
-    "countryCode": "EG",
+    "country_code": "EG",
     "country": "Egypt",
     "continent": "Africa",
     "address": " Abtal El Tahrir Street, Aswan",
@@ -57,7 +57,7 @@
   {
     "name": "Radisson Blu Anchorage Lagos",
     "description": "Overlooking the lagoon, the luxurious Radisson Blu Anchorage Hotel enjoys a privileged location in the financial and business district of Lagos. It is situated on Victoria Island, surrounded by all the embassies and close to Bar Beach, Mega Plaza Mall, City Mall and the commercial district. The city centre is within easy reach, and the international airport is at a distance of only 40 km.\nThe magnificent hotel welcomes guests in a refined ambience exuding luxury and style. The contemporary rooms and suites are designed by Swedish hospitality designer Christian Lundwall and feature all the necessary amenities one would expect at this level. The hotel boasts an outdoor infinity pool, a fantastic fitness centre and a top-class spa area. Business guests will appreciate free WIFI and the meeting facilities. The exquisite restaurant and the bar enjoy marvellous panoramic views over the lagoon. This superb hotel is a perfect choice for a stay in Lagos.\n",
-    "countryCode": "NG",
+    "country_code": "NG",
     "country": "Nigeria",
     "continent": "Africa",
     "address": "1A Ozumba Mbadiwe Avenue, Victoria Island, Lagos",
@@ -68,7 +68,7 @@
   {
     "name": "Sheraton Lagos Hotel",
     "description": "The hotel is located in Lagos midtown area. The Teslim Balogun Stadium is only 30 km from the hotel and the University of Lagos Sports Complex is 35 km away. The hotel is also near the airport.\n\nGuests will find an oasis of stylish comfort at this family-friendly hotel. It has 332 refurbished guest rooms. It also has a business centre with a full range of amenities. Guests can also find comfort in the inviting atmospheres of four fine restaurants.\n\nThe hotel has convenient guest rooms.\n\nGuests can relax after work on the oasis pool terrace.",
-    "countryCode": "NG",
+    "country_code": "NG",
     "country": "Nigeria",
     "continent": "Africa",
     "address": "30 Mobolaji Bank Anthony Way Ikeja Lagos, Lagos",
@@ -79,7 +79,7 @@
   {
     "name": "Four Points by Sheraton Lagos",
     "description": "Located in the Royal Oniru Estate, the luxurious Four Points by Sheraton Lagos enjoys a wonderful situation on the edge of Victoria Island. In the surrounding area, guests can find a plethora of shopping malls, fantastic restaurants, bars and nightclubs. A wide range of corporate offices is within easy reach, and the island of Ikoyi with the Ikoyi Club Golf Course is just a short drive away.\nGuests are welcomed in a refined, sophisticated environment exuding peace and tranquillity. The excellently appointed rooms have an elegant modern style and are equipped with all the necessary features. Business guests will appreciate the business services and the meeting facilities. After a long day of working, guests can work out in the fitness centre or rejuvenate in the spa area. There is also an indoor/outdoor infinity pool, and culinary options include a restaurant and four bars. An ideal choice for business travellers.\n",
-    "countryCode": "NG",
+    "country_code": "NG",
     "country": "Nigeria",
     "continent": "Africa",
     "address": "9/10 Oniru Chieftaincy Estate Victoria Island, Lagos",
@@ -90,7 +90,7 @@
   {
     "name": "Park Inn by Radisson Serviced Apt. Lagos Victoria",
     "description": "The hotel is conveniently situated right in the heart of Victoria Island's hotel district. Karamu Waters and the Atlantic Ocean being in easy reach of the hotel. This stunning boutique hotel arguably offers the finest accommodation in central Lagos. Hotel facilities include a bar, a restaurant and a children's playground. Car park is also available. Business travellers can make use of the conference facilities.All rooms are luxuriousand spacious. They come en suite with a shower and a king-size bed. Rooms are fully-equipped as standard.  Guests can enjoy a refreshing dip in the 2 outdoor swimming pools before relaxing on the sun terrace with its sun loungers. Fitness enthusiasts can head to the gym for a good workout. Breakfast is served as a buffet, while the lunchtime and evening meals can be enjoyed à la carte.",
-    "countryCode": "NG",
+    "country_code": "NG",
     "country": "Nigeria",
     "continent": "Africa",
     "address": "1700 Violet Yough Close, Lagos",
@@ -101,16 +101,12 @@
   {
     "name": "The Wheatbaker",
     "description": "The hotel is located in the residential heart of Ikoyi, Nigeria. It is destined to become Lagos' top lifestyle and entertainment address. It is also situated close to the Lagos business districts of Ikoyi and Victoria Island and is 35 km from Murtala Muhammed International Airport.  This air-conditioned establishment welcomes in the lobby and offers a children's playground and a business centre. The air-conditioned guest rooms are en suite and include a direct dial telephone, satellite TV as well as a minibar and tea and coffee making facilities. Guests can enjoy a refreshing dip in the outdoor swimming pool. Fitness enthusiasts can head to the gym for a good workout. Guests can additionally relax in the sauna and steam room or pamper themselves with a massage treatment.  The hotel serves a breakfast buffet, while the evening meal can be enjoyed à la carte.",
-    "countryCode": "NG",
+    "country_code": "NG",
     "country": "Nigeria",
     "continent": "Africa",
     "address": "4 Onitolo Road (Lawrence Road), Lagos",
     "email": "reservation@thewheatbakerlagos.com",
     "website": null,
     "image": "http://photos.hotelbeds.com/giata/17/170018/170018a_hb_r_008.jpg"
-  },
-  null,
-  null,
-  null,
-  null
+  }
 ]
