@@ -3,7 +3,7 @@ Rails.application.routes.draw do
 
   # Route for Foods and Restaurants
   defaults format: :json do
-    resources :Restaurants, only: [:index, :show] do
+    resources :restaurants, only: [:index, :show] do
       resources :foods, only: [:index, :show]
     end
   end
