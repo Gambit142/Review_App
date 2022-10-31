@@ -51,8 +51,20 @@ task :foods => :environment do
     end
   end
 
-  def save_food_to_json(cuisine, file_name)
-    data = create_food_attributes(cuisine)
+  def save_continental_food_data(*cuisines)
+    data = []
+    if cuisines.length > 1
+      cuisines.each do |cuisine|
+        data.concat(create_food_attributes(cuisine))
+      end
+    else
+      data.concat(create_food_attributes(cuisines[0]))
+    end
+    data
+  end
+
+  def save_food_to_json(cuisines, file_name)
+    data = save_continental_food_data(*cuisines)
     Dir.mkdir('json/cuisines') unless File.exists?('json/cuisines')
     return if File.exists?("json/cuisines/#{file_name}.json")
     File.open("json/cuisines/#{file_name}.json","w") do |f|
@@ -61,10 +73,20 @@ task :foods => :environment do
   end
 
   # Create JSON file with food data
+  eurpoean_cuisines = ['British', 'Eastern European', 'European', 'French', 
+                      'German', 'Greek', 'Italian', 'Spanish', 'Irish', 'Nordic']
+  north_american_cuisines = ['American', 'Cajun', 'Carribean', 'Mexican', 'Jewish']
+  south_american_cuisines = ['Argentinian', 'Brazilian', 'Peruvian']
+  australia_cuisines = ['Mediterranean', 'Southern']
+  asian_cuisines = ['Chinese', 'Japanese', 'Korean', 'Thai', 'Vietnamese', 'Indian', 'Middle Eastern']
+
   save_food_to_json('African', 'african_dishes')
-  save_food_to_json('American', 'american_dishes')
-  save_food_to_json('Caribbean', 'caribbean_dishes')
-  # save_food_to_json('African', 'african_dishes')
-  # save_food_to_json('African', 'african_dishes')
-  # save_food_to_json('African', 'african_dishes')
+  save_food_to_json('Latin American', 'south_american_dishes')
+  save_food_to_json(north_american_cuisines, 'north_american_dishes')
+  save_food_to_json(eurpoean_cuisines, 'european_dishes')
+  save_food_to_json(asian_cuisines, 'asian_dishes')
+  save_food_to_json(australia_cuisines, 'australian_dishes')
+
+  # Merge dishes belonging to same continent into one JSON file
+
 end
