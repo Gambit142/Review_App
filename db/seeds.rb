@@ -18,3 +18,8 @@ def create_restaurants_and_foods(category_name)
 end
 
 create_restaurants_and_foods("african")
+create_restaurants_and_foods("asian")
+create_restaurants_and_foods("australian")
+create_restaurants_and_foods("european")
+create_restaurants_and_foods("north_american")
+create_restaurants_and_foods("south_american")
