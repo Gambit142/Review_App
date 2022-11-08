@@ -1,6 +1,4 @@
 Rails.application.routes.draw do
-  resources :reviews
-
   # Route for Foods and Restaurants
   defaults format: :json do
     resources :restaurants, only: [:index, :show] do
@@ -14,9 +12,9 @@ Rails.application.routes.draw do
   get "/authenticated", to: "sessions#show", format: 'json'
 
   # Routes for Different Reviews
-  get "/foods/:id/reviews", to: "reviews#food_reviews", format: 'json'
-  get "/restaurants/:id/reviews", to: "reviews#restaurant_reviews", format: 'json'
-  get "/users/:id/reviews", to: "reviews#user_reviews", format: 'json'
+  get "/:type/:id/reviews", to: "reviews#show_reviews", format: 'json'
+  get "/reviews-given", to: "reviews#user_reviews", format: 'json'
+  post "/:type/:id/reviews", to: "reviews#create", format: 'json'
 
   root "root#index"
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
