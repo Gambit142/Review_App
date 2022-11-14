@@ -1,20 +1,32 @@
 class RestaurantsController < ApplicationController
   def index
-    @restaurants = Restaurant.all
-    render json: @restaurants
+    if logged_in?
+      @restaurants = Restaurant.all
+      render json: @restaurants
+    else
+      render json: {error: "You must be logged in to view this page"}
+    end
   end
 
   def show
-    @restaurant = Restaurant.find(params[:id]).includes(:foods)
-    render json: @restaurant
+    if logged_in?
+      @restaurant = Restaurant.find(params[:id]).includes(:foods)
+      render json: @restaurant
+    else
+      render json: {error: "You must be logged in to view this page"}
+    end
   end
 
   def create
-    @restaurant = Restaurant.new(restaurant_params)
-    if @restaurant.save
-      render json: @restaurant
+    if logged_in?
+      @restaurant = Restaurant.new(restaurant_params)
+      if @restaurant.save
+        render json: @restaurant
+      else
+        render json: @restaurant.errors.full_messages, status: 422
+      end
     else
-      render json: @restaurant.errors.full_messages, status: 422
+      render json: {error: "You must be logged in to view this page"}
     end
   end
 
